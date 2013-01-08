@@ -3,3 +3,5 @@ Start a simple server by doing the following from Terminal:
 - Navigate to your projects directory
 - Run `python -m SimpleHTTPServer`
 - Go to http://localhost:8000
+
+ cd ~/Downloads/hyper

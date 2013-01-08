@@ -32,24 +32,24 @@ var Log = {
 };
 
 //RightMenu
-var RightMenu = function(airlineList, airlineMgr) {
+var RightMenu = function(programlist, programMgr) {
   var me = this;
-  me.airlineList = airlineList;
-  me.airlineMgr = airlineMgr;
-  me.selectedAirlines = $('selected-airlines');
+  me.programList = programList;
+  me.programMgr = programMgr;
+  me.selectedPrograms = $('selected-programs');
 
-  airlineList.addEventListener('mousemove', function(e) { me.onMouseMove(e); }, false);
-  airlineList.addEventListener('mouseout', function(e) { me.onMouseOut(e); }, false);
-  airlineList.addEventListener('change', function(e) { me.onChange(e); }, false);
+  programList.addEventListener('mousemove', function(e) { me.onMouseMove(e); }, false);
+  programList.addEventListener('mouseout', function(e) { me.onMouseOut(e); }, false);
+  programList.addEventListener('change', function(e) { me.onChange(e); }, false);
 
-  me.selectedAirlines.addEventListener('click', function(e) { me.onClick(e); }, false);
-  me.selectedAirlines.addEventListener('mousemove', function(e) { me.onHover(e); }, false);
-  me.selectedAirlines.addEventListener('mouseout', function (e) { me.onLeave(e); }, false);
+  me.selectedPrograms.addEventListener('click', function(e) { me.onClick(e); }, false);
+  me.selectedPrograms.addEventListener('mousemove', function(e) { me.onHover(e); }, false);
+  me.selectedPrograms.addEventListener('mouseout', function (e) { me.onLeave(e); }, false);
 };
 
 RightMenu.prototype = {
   load: function(html) {
-    this.airlineList.innerHTML = html;
+    this.programList.innerHTML = html;
   },
 
   onMouseMove: function(e) {
@@ -97,7 +97,7 @@ RightMenu.prototype = {
   onMouseOut: function(e) {
     var nodeName = e.relatedTarget && e.relatedTarget.nodeName;
     if (nodeName && 'INPUT|LI|LABEL'.indexOf(nodeName) == -1) {
-      Array.prototype.slice.call(airlineList.getElementsByTagName('li')).forEach(function(elem) {
+      Array.prototype.slice.call(programList.getElementsByTagName('li')).forEach(function(elem) {
         elem.style.fontSize = '1em';
       });
     }
@@ -106,18 +106,18 @@ RightMenu.prototype = {
   onChange: function(e) {
     var checkbox = e.target,
         label = checkbox.parentNode,
-        airlineId = checkbox.id.split('-')[1],
+        programId = checkbox.id.split('-')[1],
         name = label.textContent,
-        airlineMgr = this.airlineMgr,
-        color = airlineMgr.getColor(airlineId) || airlineMgr.getAvailableColor();
+        programMgr = this.programMgr,
+        color = programMgr.getColor(programId) || programMgr.getAvailableColor();
 
     if (checkbox.checked) {
-      this.selectedAirlines.innerHTML += '<li id=\'' + airlineId + '-selected\'>' +
-        '<input type=\'checkbox\' checked id=\'' + airlineId + '-checkbox-selected\' />' +
+      this.selectedPrograms.innerHTML += '<li id=\'' + programId + '-selected\'>' +
+        '<input type=\'checkbox\' checked id=\'' + programId + '-checkbox-selected\' />' +
         '<div class=\'square\' style=\'background-color:rgb(' + color + ');\' ></div>' +
         name + '</li>';
     } else {
-      var node = $(airlineId + '-selected');
+      var node = $(programId + '-selected');
       node.parentNode.removeChild(node);
     }
   },
@@ -125,36 +125,36 @@ RightMenu.prototype = {
   onClick: function(e) {
     var target = e.target, node;
     if (target.nodeName == 'INPUT') {
-      var airlineId = target.parentNode.id.split('-')[0];
-      var checkbox = $('checkbox-' + airlineId);
+      var programId = target.parentNode.id.split('-')[0];
+      var checkbox = $('checkbox-' + programId);
       checkbox.checked = false;
-      airlineMgr.remove(airlineId);
+      programMgr.remove(programId);
       target = target.parentNode;
       node = target.nextSibling || target.previousSibling;
       target.parentNode.removeChild(target);
       if (node && node.id) {
-        centerAirline(node.id.split('-')[0]);
+        centerProgram(node.id.split('-')[0]);
       }
     } else {
       if (target.nodeName == 'DIV') {
         target = target.parentNode;
       }
-      centerAirline(target.id.split('-')[0]);
+      centerProgram(target.id.split('-')[0]);
     }
   },
 
   onHover: function(e) {
-    var target = e.target, airlineId;
+    var target = e.target, programId;
     if (target.nodeName == 'INPUT') {
-      airlineId = target.parentNode.id.split('-')[0];
+      programId = target.parentNode.id.split('-')[0];
     } else {
       if (target.nodeName == 'DIV') {
         target = target.parentNode;
       }
-      airlineId = target.id.split('-')[0];
+      programId = target.id.split('-')[0];
     }
-    for (var name in models.airlines) {
-      models.airlines[name].lineWidth = name == airlineId ? 2 : 1;
+    for (var name in models.programs) {
+      models.program[name].lineWidth = name == programId ? 2 : 1;
     }
   },
 
@@ -163,23 +163,23 @@ RightMenu.prototype = {
         pn = rt && rt.parentNode,
         pn2 = pn && pn.parentNode;
 
-    if (rt != this.selectedAirlines &&
-        pn != this.selectedAirlines &&
-       pn2 != this.selectedAirlines) {
+    if (rt != this.selectedPrograms &&
+        pn != this.selectedPrograms &&
+       pn2 != this.selectedPrograms) {
 
-      for (var name in models.airlines) {
-        models.airlines[name].lineWidth = 1;
+      for (var name in models.programs) {
+        models.programs[name].lineWidth = 1;
       }
     }
   }
 };
 
-//AirlineManager
+//ProgramManager
 //Takes care of adding and removing routes
-//for the selected airlines
-var AirlineManager = function(data, models) {
+//for the selected programs
+var ProgramManager = function(data, models) {
 
-  var airlineIdColor = {};
+  var programsIdColor = {};
 
   var availableColors = {
     '171, 217, 233': 0,
@@ -205,23 +205,23 @@ var AirlineManager = function(data, models) {
 
   return {
 
-    airlineIds: [],
+    programIds: [],
 
-    getColor: function(airlineId) {
-        return airlineIdColor[airlineId];
+    getColor: function(programId) {
+        return programIdColor[programId];
     },
 
     getAvailableColor: getAvailableColor,
 
-    add: function(airline) {
-      var airlineIds = this.airlineIds,
+    add: function(program) {
+      var programIds = this.programIds,
           color = getAvailableColor(),
-          airlines = models.airlines,
+          programs = models.programs,
           route = {
-            origin: data.airlines[airline].origin,
-            destination: data.airlines[airline].destination
+            origin: data.programs[program].origin,
+            destination: data.programs[program].destination
           },
-          model = airlines[airline],
+          model = programs[program],
           samplings = 10,
           vertices = [],
           indices = [],
@@ -244,10 +244,10 @@ var AirlineManager = function(data, models) {
         sample.push.apply(sample, ans.sample);
         indices.push.apply(indices, ans.indices);
 
-        airlines[airline] = model = new O3D.Model({
+        programs[program] = model = new O3D.Model({
           vertices: vertices,
           indices: indices,
-          program: 'airline_layer',
+          program: 'program_layer',
           uniforms: {
             color: parsedColor
           },
@@ -274,22 +274,22 @@ var AirlineManager = function(data, models) {
 
       this.show(model);
 
-      airlineIds.push(airline);
-      //set color for airline Id
+      programIds.push(program);
+      //set color for program Id
       availableColors[color]++;
-      airlineIdColor[airline] = color;
+      programIdColor[program] = color;
     },
 
-    remove: function(airline) {
-      var airlines = models.airlines,
-          model = airlines[airline],
-          color = airlineIdColor[airline];
+    remove: function(program) {
+      var programs = models.programs,
+          model = programs[program],
+          color = programIdColor[program];
 
       this.hide(model);
 
-      //unset color for airline Id.
+      //unset color for program Id.
       availableColors[color]--;
-      delete airlineIdColor[airline];
+      delete programIdColor[program];
     },
 
     show: function(model) {

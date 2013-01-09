@@ -32,24 +32,24 @@ var Log = {
 };
 
 //RightMenu
-var RightMenu = function(airlineList, airlineMgr) {
+var RightMenu = function(peopleList, peopleMgr) {
   var me = this;
-  me.airlineList = airlineList;
-  me.airlineMgr = airlineMgr;
-  me.selectedAirlines = $('selected-airlines');
+  me.peopleList = peopleList;
+  me.peopleMgr = peopleMgr;
+  me.selectedPeople = $('selected-people');
 
-  airlineList.addEventListener('mousemove', function(e) { me.onMouseMove(e); }, false);
-  airlineList.addEventListener('mouseout', function(e) { me.onMouseOut(e); }, false);
-  airlineList.addEventListener('change', function(e) { me.onChange(e); }, false);
+  peopleList.addEventListener('mousemove', function(e) { me.onMouseMove(e); }, false);
+  peopleList.addEventListener('mouseout', function(e) { me.onMouseOut(e); }, false);
+  peopleList.addEventListener('change', function(e) { me.onChange(e); }, false);
 
-  me.selectedAirlines.addEventListener('click', function(e) { me.onClick(e); }, false);
-  me.selectedAirlines.addEventListener('mousemove', function(e) { me.onHover(e); }, false);
-  me.selectedAirlines.addEventListener('mouseout', function (e) { me.onLeave(e); }, false);
+  me.selectedPeople.addEventListener('click', function(e) { me.onClick(e); }, false);
+  me.selectedPeople.addEventListener('mousemove', function(e) { me.onHover(e); }, false);
+  me.selectedPeople.addEventListener('mouseout', function (e) { me.onLeave(e); }, false);
 };
 
 RightMenu.prototype = {
   load: function(html) {
-    this.airlineList.innerHTML = html;
+    this.peopleList.innerHTML = html;
   },
 
   onMouseMove: function(e) {
@@ -97,7 +97,7 @@ RightMenu.prototype = {
   onMouseOut: function(e) {
     var nodeName = e.relatedTarget && e.relatedTarget.nodeName;
     if (nodeName && 'INPUT|LI|LABEL'.indexOf(nodeName) == -1) {
-      Array.prototype.slice.call(airlineList.getElementsByTagName('li')).forEach(function(elem) {
+      Array.prototype.slice.call(peopleList.getElementsByTagName('li')).forEach(function(elem) {
         elem.style.fontSize = '1em';
       });
     }
@@ -106,18 +106,18 @@ RightMenu.prototype = {
   onChange: function(e) {
     var checkbox = e.target,
         label = checkbox.parentNode,
-        airlineId = checkbox.id.split('-')[1],
+        peopleId = checkbox.id.split('-')[1],
         name = label.textContent,
-        airlineMgr = this.airlineMgr,
-        color = airlineMgr.getColor(airlineId) || airlineMgr.getAvailableColor();
+        peopleMgr = this.peopleMgr,
+        color = peopleMgr.getColor(peopleId) || peopleMgr.getAvailableColor();
 
     if (checkbox.checked) {
-      this.selectedAirlines.innerHTML += '<li id=\'' + airlineId + '-selected\'>' +
-        '<input type=\'checkbox\' checked id=\'' + airlineId + '-checkbox-selected\' />' +
+      this.selectedPeople.innerHTML += '<li id=\'' + peopleId + '-selected\'>' +
+        '<input type=\'checkbox\' checked id=\'' + peopleId + '-checkbox-selected\' />' +
         '<div class=\'square\' style=\'background-color:rgb(' + color + ');\' ></div>' +
         name + '</li>';
     } else {
-      var node = $(airlineId + '-selected');
+      var node = $(peopleId + '-selected');
       node.parentNode.removeChild(node);
     }
   },
@@ -125,36 +125,36 @@ RightMenu.prototype = {
   onClick: function(e) {
     var target = e.target, node;
     if (target.nodeName == 'INPUT') {
-      var airlineId = target.parentNode.id.split('-')[0];
-      var checkbox = $('checkbox-' + airlineId);
+      var peopleId = target.parentNode.id.split('-')[0];
+      var checkbox = $('checkbox-' + peopleId);
       checkbox.checked = false;
-      airlineMgr.remove(airlineId);
+      peopleMgr.remove(peopleId);
       target = target.parentNode;
       node = target.nextSibling || target.previousSibling;
       target.parentNode.removeChild(target);
       if (node && node.id) {
-        centerAirline(node.id.split('-')[0]);
+        centerPeople(node.id.split('-')[0]);
       }
     } else {
       if (target.nodeName == 'DIV') {
         target = target.parentNode;
       }
-      centerAirline(target.id.split('-')[0]);
+      centerPeople(target.id.split('-')[0]);
     }
   },
 
   onHover: function(e) {
-    var target = e.target, airlineId;
+    var target = e.target, peopleId;
     if (target.nodeName == 'INPUT') {
-      airlineId = target.parentNode.id.split('-')[0];
+      peopleId = target.parentNode.id.split('-')[0];
     } else {
       if (target.nodeName == 'DIV') {
         target = target.parentNode;
       }
-      airlineId = target.id.split('-')[0];
+      peopleId = target.id.split('-')[0];
     }
-    for (var name in models.airlines) {
-      models.airlines[name].lineWidth = name == airlineId ? 2 : 1;
+    for (var name in models.people) {
+      models.people[name].lineWidth = name == peopleId ? 2 : 1;
     }
   },
 
@@ -163,23 +163,23 @@ RightMenu.prototype = {
         pn = rt && rt.parentNode,
         pn2 = pn && pn.parentNode;
 
-    if (rt != this.selectedAirlines &&
-        pn != this.selectedAirlines &&
-       pn2 != this.selectedAirlines) {
+    if (rt != this.selectedPeople &&
+        pn != this.selectedPeople &&
+       pn2 != this.selectedPeople) {
 
-      for (var name in models.airlines) {
-        models.airlines[name].lineWidth = 1;
+      for (var name in models.people) {
+        models.people[name].lineWidth = 1;
       }
     }
   }
 };
 
-//AirlineManager
+//PeopleeManager
 //Takes care of adding and removing routes
-//for the selected airlines
-var AirlineManager = function(data, models) {
+//for the selected people
+var PeopleManager = function(data, models) {
 
-  var airlineIdColor = {};
+  var peopleIdColor = {};
 
   var availableColors = {
     '171, 217, 233': 0,
@@ -205,23 +205,23 @@ var AirlineManager = function(data, models) {
 
   return {
 
-    airlineIds: [],
+    peopleIds: [],
 
-    getColor: function(airlineId) {
-        return airlineIdColor[airlineId];
+    getColor: function(peopleId) {
+        return peopleIdColor[peopleId];
     },
 
     getAvailableColor: getAvailableColor,
 
-    add: function(airline) {
-      var airlineIds = this.airlineIds,
+    add: function(people) {
+      var peopleIds = this.peopleIds,
           color = getAvailableColor(),
-          airlines = models.airlines,
+          people = models.people,
           route = {
-            origin: data.airlines[airline].origin,
-            destination: data.airlines[airline].destination
+            origin: data.people[people].origin,
+            destination: data.people[people].destination
           },
-          model = airlines[airline],
+          model = people[people],
           samplings = 10,
           vertices = [],
           indices = [],
@@ -244,10 +244,10 @@ var AirlineManager = function(data, models) {
         sample.push.apply(sample, ans.sample);
         indices.push.apply(indices, ans.indices);
 
-        airlines[airline] = model = new O3D.Model({
+        people[people] = model = new O3D.Model({
           vertices: vertices,
           indices: indices,
-          program: 'airline_layer',
+          program: 'people_layer',
           uniforms: {
             color: parsedColor
           },
@@ -274,22 +274,22 @@ var AirlineManager = function(data, models) {
 
       this.show(model);
 
-      airlineIds.push(airline);
-      //set color for airline Id
+      peopleIds.push(people);
+      //set color for people Id
       availableColors[color]++;
-      airlineIdColor[airline] = color;
+      peopleIdColor[people] = color;
     },
 
-    remove: function(airline) {
-      var airlines = models.airlines,
-          model = airlines[airline],
-          color = airlineIdColor[airline];
+    remove: function(people) {
+      var people = models.people,
+          model = people[people],
+          color = peopleIdColor[people];
 
       this.hide(model);
 
-      //unset color for airline Id.
+      //unset color for people Id.
       availableColors[color]--;
-      delete airlineIdColor[airline];
+      delete peopleIdColor[people];
     },
 
     show: function(model) {

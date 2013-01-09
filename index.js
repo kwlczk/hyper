@@ -6,37 +6,37 @@ Scene.PICKING_RES = 1;
 var $ = function(id) { return document.getElementById(id); },
     $$ = function(selector) { return document.querySelectorAll(selector); },
     citiesWorker = new Worker('cities.js'),
-    data = { citiesRoutes: {}, airlinesRoutes: {} },
-    models = { airlines: {} }, geom = {},
-    airlineMgr = new AirlineManager(data, models),
+    data = { citiesRoutes: {}, peopleRoutes: {} },
+    models = { people: {} }, geom = {},
+    peopleMgr = new PeopleManager(data, models),
     fx = new Fx({
       duration: 1000,
       transition: Fx.Transition.Expo.easeInOut
     }),
-    airlineList, pos, tooltip;
+    peopleList, pos, tooltip;
 
 //Get handles when document is ready
 document.onreadystatechange = function() {
   if (document.readyState == 'complete' && PhiloGL.hasWebGL()) {
 
-    airlineList = $('airline-list');
+    peopleList = $('people-list');
     tooltip = $('tooltip');
 
     //Add search handler
     $('search').addEventListener('keyup', (function() {
       var timer = null,
-          parentNode = airlineList.parentNode,
-          lis = airlineList.getElementsByTagName('li'),
+          parentNode = peopleList.parentNode,
+          lis = peopleList.getElementsByTagName('li'),
           previousText = '';
 
       function search(value) {
-        parentNode.removeChild(airlineList);
+        parentNode.removeChild(peopleList);
         for (var i = 0, l = lis.length; i < l; i++) {
           var li = lis[i],
               text = li.textContent || li.innerText;
           li.style.display = text.trim().toLowerCase().indexOf(value) > -1 ? '' : 'none';
         }
-        parentNode.appendChild(airlineList);
+        parentNode.appendChild(peopleList);
       }
 
       return function(e) {
@@ -122,7 +122,7 @@ function loadData() {
       loadStudents();
     },
     onProgress: function(e) {
-      Log.write('Loading airports data, please wait...' +
+      Log.write('Loading people data, please wait...' +
                 (e.total ? Math.round(e.loaded / e.total * 1000) / 10 : ''));
     },
     onError: function() {
@@ -133,12 +133,12 @@ function loadData() {
 }
 
 function loadStudents() {
-  //Request airline data
+  //Request people data
   new IO.XHR({
     url: 'data/students.json',
     onSuccess: function(json) {
-      var airlines = data.airlines = JSON.parse(json),
-          airlinePos = data.airlinePos = {},
+      var people = data.people = JSON.parse(json),
+          peoplePos = data.peoplePos = {},
           html = [],
           pi = Math.PI,
           pi2 = pi * 2,
@@ -146,57 +146,57 @@ function loadStudents() {
           cos = Math.cos,
           phi, theta, sinTheta, cosTheta, sinPhi, cosPhi;
       //assuming the data will be available after the document is ready...
-      for (var i = 0, l = airlines.length; i < l; i++) {
-        var airline = airlines[i],
-            airlineId = i,
-            airlineName = airline[0]
+      for (var i = 0, l = people.length; i < l; i++) {
+        var people = people[i],
+            peopleId = i,
+            peopleName = people[0]
 
-        airline.origin = data.cities[airline[1]]
-        airline.destination = data.cities[airline[2]]
+        people.origin = data.cities[people[1]]
+        people.destination = data.cities[people[2]]
 
-        // Change to airline.destination if you want the camera to focus on the destination
-        // Change to airline.origin if you want the camera to focus on the origin (when you select a name)
-        phi = pi - (+airline.destination[2] + 90) / 180 * pi;
-        theta = pi2 - (+airline.destination[3] + 180) / 360 * pi2;
+        // Change to people.destination if you want the camera to focus on the destination
+        // Change to people.origin if you want the camera to focus on the origin (when you select a name)
+        phi = pi - (+people.destination[2] + 90) / 180 * pi;
+        theta = pi2 - (+people.destination[3] + 180) / 360 * pi2;
         sinTheta = sin(theta);
         cosTheta = cos(theta);
         sinPhi = sin(phi);
         cosPhi = cos(phi);
 
-        airlinePos[airlineId] = [ cosTheta * sinPhi, cosPhi, sinTheta * sinPhi, phi, theta ];
+        peoplePos[peopleId] = [ cosTheta * sinPhi, cosPhi, sinTheta * sinPhi, phi, theta ];
 
         html.push('<label for=\'checkbox-' +
-                  airlineId + '\'><input type=\'checkbox\' id=\'checkbox-' +
-                      airlineId + '\' /> ' + airlineName + '</label>');
+                  peopleId + '\'><input type=\'checkbox\' id=\'checkbox-' +
+                      peopleId + '\' /> ' + peopleName + '</label>');
       }
 
-      //when an airline is selected show all paths for that airline
-      airlineList.addEventListener('change', function(e) {
+      //when an people is selected show all paths for that people
+      peopleList.addEventListener('change', function(e) {
         var target = e.target,
-            airlineId = target.id.split('-')[1];
+            peopleId = target.id.split('-')[1];
 
         if (target.checked) {
-          airlineMgr.add(airlineId);
-          centerAirline(airlineId);
+          peopleMgr.add(peopleId);
+          centerPeople(peopleId);
         } else {
-            airlineMgr.remove(airlineId);
+            peopleMgr.remove(peopleId);
         }
       }, false);
 
       //create right menu
-      var rightMenu = new RightMenu(airlineList, airlineMgr);
+      var rightMenu = new RightMenu(peopleList, peopleMgr);
       rightMenu.load('<li>' + html.join('</li><li>') + '</li>');
 
     },
     onError: function() {
-      Log.write('There was an error while fetching airlines data.', true);
+      Log.write('There was an error while fetching people data.', true);
     }
   }).send();
 }
 
-//center the airline
-function centerAirline(airlineId) {
-  var pos = data.airlinePos[airlineId],
+//center the people
+function centerPeople(peopleId) {
+  var pos = data.peoplePos[peopleId],
       earth = models.earth,
       cities = models.cities,
       phi = pos[3],
@@ -217,7 +217,7 @@ function centerAirline(airlineId) {
     },
 
     onComplete: function() {
-      centerAirline.app.scene.resetPicking();
+      centerPeople.app.scene.resetPicking();
     }
   });
 }
@@ -225,7 +225,7 @@ function centerAirline(airlineId) {
 function rotateXY(phi, theta) {
   var earth = models.earth,
       cities = models.cities,
-      airlines = models.airlines,
+      people = models.people,
       xVec = [1, 0, 0],
       yVec = [0, 1, 0],
       yVec2 =[0, -1, 0];
@@ -253,8 +253,8 @@ function rotateXY(phi, theta) {
 
   earth.matrix = m1;
   cities.matrix = m2;
-  for (var name in airlines) {
-    airlines[name].matrix = m2;
+  for (var name in people) {
+    people[name].matrix = m2;
   }
 }
 
@@ -263,11 +263,11 @@ function createApp() {
   PhiloGL('map-canvas', {
     program: [{
       //to render cities and routes
-      id: 'airline_layer',
+      id: 'people_layer',
       from: 'uris',
       path: 'shaders/',
-      vs: 'airline_layer.vs.glsl',
-      fs: 'airline_layer.fs.glsl',
+      vs: 'people_layer.vs.glsl',
+      fs: 'people_layer.fs.glsl',
       noCache: true
     }, {
       //to render cities and routes
@@ -436,8 +436,8 @@ function createApp() {
       app.tooltip = $('tooltip');
       //nasty
       window.app = app;
-      centerAirline.app = app;
-      airlineMgr.app = app;
+      centerPeople.app = app;
+      peopleMgr.app = app;
 
       gl.clearColor(0.1, 0.1, 0.1, 1);
       gl.clearDepth(1);
@@ -483,8 +483,8 @@ function createApp() {
 
       //window.addEventListener('resize', this.events.onWindowResize, false);
 
-      //Select first airline
-      $$('#airline-list li input')[0].click();
+      //Select first people
+      $$('#people-list li input')[0].click();
       $('list-wrapper').style.display = '';
 
       //Draw to screen

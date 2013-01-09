@@ -68,7 +68,7 @@
 	"italy^milan": ["Italy", "Milan", "45.464", "9.188"],
 	"germany^hamburg": ["Germany", "Hamburg", "53.551", "9.994"],
 	"brazil^porto alegre": ["Brazil", "Porto Alegre", "−51.2287346", "−30.0277041"],
-	"japan^tokyo": ["Japan", "Tokyo", "139.69", "35.689"],
+	"japan^tokyo": ["Japan", "Tokyo", "35.689", "139.69"],
 	"kenya^nairobi": ["Kenya", "Nairobi", "36.822", "−1.2920659"],
 	"switzerland^zurich": ["Switzerland", "Zurich", "8.539", "47.369"],
 	"sweden^vasteras": ["Sweden", "Vasteras", "59.61", "16.545"],
@@ -81,7 +81,7 @@
 	"united kingdom^guildford": ["United Kingdom", "Guildford", "51.23622", "-0.570409"],
 	"denmark^copenhagen": ["Denmark", "Copenhagen", "55.6760968", "12.5683371"],
 	"switzerland^berne": ["Switzerland", "Berne", "46.9479222", "7.4446085"],
-	"canada^halifax": ["Canada", "Halifax", "1.352083", "103.819836"],
+	"canada^halifax": ["Canada", "Halifax", "103.819836", "1.352083"],
 	"norway^oslo": ["Norway", "Oslo", "59.9138688", "10.7522454"],
 	"united states^pennsylvania": ["United States", "Pennsylvania", "41.2033216", "-77.1945247"],
 	"united states^washington dc": ["United States", "Washington DC", "38.8951118", "-77.0363658"]

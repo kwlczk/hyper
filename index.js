@@ -6,37 +6,37 @@ Scene.PICKING_RES = 1;
 var $ = function(id) { return document.getElementById(id); },
     $$ = function(selector) { return document.querySelectorAll(selector); },
     citiesWorker = new Worker('cities.js'),
-    data = { citiesRoutes: {}, progamsRoutes: {} },
-    models = { progams: {} }, geom = {},
-    progamMgr = new ProgamManager(data, models),
+    data = { citiesRoutes: {}, airlinesRoutes: {} },
+    models = { airlines: {} }, geom = {},
+    airlineMgr = new AirlineManager(data, models),
     fx = new Fx({
       duration: 1000,
       transition: Fx.Transition.Expo.easeInOut
     }),
-    progamList, pos, tooltip;
+    airlineList, pos, tooltip;
 
 //Get handles when document is ready
 document.onreadystatechange = function() {
   if (document.readyState == 'complete' && PhiloGL.hasWebGL()) {
 
-    progamList = $('progam-list');
+    airlineList = $('airline-list');
     tooltip = $('tooltip');
 
     //Add search handler
     $('search').addEventListener('keyup', (function() {
       var timer = null,
-          parentNode = progamList.parentNode,
-          lis = progamList.getElementsByTagName('li'),
+          parentNode = airlineList.parentNode,
+          lis = airlineList.getElementsByTagName('li'),
           previousText = '';
 
       function search(value) {
-        parentNode.removeChild(progamList);
+        parentNode.removeChild(airlineList);
         for (var i = 0, l = lis.length; i < l; i++) {
           var li = lis[i],
               text = li.textContent || li.innerText;
           li.style.display = text.trim().toLowerCase().indexOf(value) > -1 ? '' : 'none';
         }
-        parentNode.appendChild(progamList);
+        parentNode.appendChild(airlineList);
       }
 
       return function(e) {
@@ -122,7 +122,7 @@ function loadData() {
       loadStudents();
     },
     onProgress: function(e) {
-      Log.write('Loading hyper island data, please wait...' +
+      Log.write('Loading airports data, please wait...' +
                 (e.total ? Math.round(e.loaded / e.total * 1000) / 10 : ''));
     },
     onError: function() {
@@ -133,12 +133,12 @@ function loadData() {
 }
 
 function loadStudents() {
-  //Request progam data
+  //Request airline data
   new IO.XHR({
     url: 'data/students.json',
     onSuccess: function(json) {
-      var progams = data.progams = JSON.parse(json),
-          progamPos = data.progamPos = {},
+      var airlines = data.airlines = JSON.parse(json),
+          airlinePos = data.airlinePos = {},
           html = [],
           pi = Math.PI,
           pi2 = pi * 2,
@@ -146,57 +146,57 @@ function loadStudents() {
           cos = Math.cos,
           phi, theta, sinTheta, cosTheta, sinPhi, cosPhi;
       //assuming the data will be available after the document is ready...
-      for (var i = 0, l = progams.length; i < l; i++) {
-        var progam = progams[i],
-            progamId = i,
-            progamName = progam[0]
+      for (var i = 0, l = airlines.length; i < l; i++) {
+        var airline = airlines[i],
+            airlineId = i,
+            airlineName = airline[0]
 
-        progam.origin = data.cities[progam[1]]
-        progam.destination = data.cities[progam[2]]
+        airline.origin = data.cities[airline[1]]
+        airline.destination = data.cities[airline[2]]
 
-        // Change to progam.destination if you want the camera to focus on the destination
-        // Change to progam.origin if you want the camera to focus on the origin (when you select a name)
-        phi = pi - (+progam.destination[2] + 90) / 180 * pi;
-        theta = pi2 - (+progam.destination[3] + 180) / 360 * pi2;
+        // Change to airline.destination if you want the camera to focus on the destination
+        // Change to airline.origin if you want the camera to focus on the origin (when you select a name)
+        phi = pi - (+airline.destination[2] + 90) / 180 * pi;
+        theta = pi2 - (+airline.destination[3] + 180) / 360 * pi2;
         sinTheta = sin(theta);
         cosTheta = cos(theta);
         sinPhi = sin(phi);
         cosPhi = cos(phi);
 
-        progamPos[progamId] = [ cosTheta * sinPhi, cosPhi, sinTheta * sinPhi, phi, theta ];
+        airlinePos[airlineId] = [ cosTheta * sinPhi, cosPhi, sinTheta * sinPhi, phi, theta ];
 
         html.push('<label for=\'checkbox-' +
-                  progamId + '\'><input type=\'checkbox\' id=\'checkbox-' +
-                      progamId + '\' /> ' + aprogamName + '</label>');
+                  airlineId + '\'><input type=\'checkbox\' id=\'checkbox-' +
+                      airlineId + '\' /> ' + airlineName + '</label>');
       }
 
-      //when an progam is selected show all paths for that progam
-      progamList.addEventListener('change', function(e) {
+      //when an airline is selected show all paths for that airline
+      airlineList.addEventListener('change', function(e) {
         var target = e.target,
-            progamId = target.id.split('-')[1];
+            airlineId = target.id.split('-')[1];
 
         if (target.checked) {
-          progamMgr.add(progamId);
-          centerProgam(progamId);
+          airlineMgr.add(airlineId);
+          centerAirline(airlineId);
         } else {
-            progamMgr.remove(progamId);
+            airlineMgr.remove(airlineId);
         }
       }, false);
 
       //create right menu
-      var rightMenu = new RightMenu(progamList, progamMgr);
+      var rightMenu = new RightMenu(airlineList, airlineMgr);
       rightMenu.load('<li>' + html.join('</li><li>') + '</li>');
 
     },
     onError: function() {
-      Log.write('There was an error while fetching progams data.', true);
+      Log.write('There was an error while fetching airlines data.', true);
     }
   }).send();
 }
 
-//center the progam
-function centerProgam(progamId) {
-  var pos = data.progamPos[progamId],
+//center the airline
+function centerAirline(airlineId) {
+  var pos = data.airlinePos[airlineId],
       earth = models.earth,
       cities = models.cities,
       phi = pos[3],
@@ -217,7 +217,7 @@ function centerProgam(progamId) {
     },
 
     onComplete: function() {
-      centerProgam.app.scene.resetPicking();
+      centerAirline.app.scene.resetPicking();
     }
   });
 }
@@ -225,7 +225,7 @@ function centerProgam(progamId) {
 function rotateXY(phi, theta) {
   var earth = models.earth,
       cities = models.cities,
-      progams = models.progams,
+      airlines = models.airlines,
       xVec = [1, 0, 0],
       yVec = [0, 1, 0],
       yVec2 =[0, -1, 0];
@@ -253,8 +253,8 @@ function rotateXY(phi, theta) {
 
   earth.matrix = m1;
   cities.matrix = m2;
-  for (var name in progams) {
-    progams[name].matrix = m2;
+  for (var name in airlines) {
+    airlines[name].matrix = m2;
   }
 }
 
@@ -263,11 +263,11 @@ function createApp() {
   PhiloGL('map-canvas', {
     program: [{
       //to render cities and routes
-      id: 'progam_layer',
+      id: 'airline_layer',
       from: 'uris',
       path: 'shaders/',
-      vs: 'progam_layer.vs.glsl',
-      fs: 'progam_layer.fs.glsl',
+      vs: 'airline_layer.vs.glsl',
+      fs: 'airline_layer.fs.glsl',
       noCache: true
     }, {
       //to render cities and routes
@@ -436,8 +436,8 @@ function createApp() {
       app.tooltip = $('tooltip');
       //nasty
       window.app = app;
-      centerProgam.app = app;
-      progamMgr.app = app;
+      centerAirline.app = app;
+      airlineMgr.app = app;
 
       gl.clearColor(0.1, 0.1, 0.1, 1);
       gl.clearDepth(1);
@@ -483,8 +483,8 @@ function createApp() {
 
       //window.addEventListener('resize', this.events.onWindowResize, false);
 
-      //Select first progam
-      $$('#progam-list li input')[0].click();
+      //Select first airline
+      $$('#airline-list li input')[0].click();
       $('list-wrapper').style.display = '';
 
       //Draw to screen

@@ -171,14 +171,14 @@ input#search {
   text-indent: 5px;
 }
 
-ul#selected-airlines {
+ul#selected-people {
   margin: 0;
   padding: 0;
   text-align: left;
   font-size: 0.8em;
 }
 
-ul#selected-airlines > li {
+ul#selected-people > li {
   position: relative;
   list-style: none;
   display: block;
@@ -188,16 +188,16 @@ ul#selected-airlines > li {
   cursor: pointer;
 }
 
-ul#selected-airlines > li:hover {
+ul#selected-people > li:hover {
   text-decoration: underline;
 }
 
-ul#selected-airlines > li:nth-last-child(1) {
+ul#selected-people > li:nth-last-child(1) {
   border-bottom: 1px solid white;
   padding-bottom: 10px;
 }
 
-ul#selected-airlines > li .square {
+ul#selected-people > li .square {
   float: left;
   width: 10px;
   height: 10px;
@@ -206,25 +206,25 @@ ul#selected-airlines > li .square {
   border-radius: 1em;
 }
 
-ul#selected-airlines > li > input {
+ul#selected-people > li > input {
   float: left;
 }
 
-ul#airline-list {
+ul#people-list {
   font-size: 0.8em;
   list-style: none;
   padding: 0;
   margin-top: 1px;
 }
 
-ul#airline-list > li {
+ul#people-list > li {
   list-style: none;
   display: block;
   text-align: left;
   color: white;
 }
 
-ul#airline-list > li > label {
+ul#people-list > li > label {
   cursor: pointer;
 }
 

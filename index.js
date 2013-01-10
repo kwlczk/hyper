@@ -131,10 +131,10 @@ function loadData() {
       Log.write('There was an error while fetching cities data.', true);
     }
   }).send();
-  loadPeople('hypercollaborators');
-  loadPeople('hyperalumni');
-  loadPeople('hypercoworkers');
-  loadPeople('hyperstudents');
+  loadPeople('Collaborators');
+  loadPeople('Alumni');
+  loadPeople('Coworkers');
+  loadPeople('Students');
 
   //when an airline is selected show all paths for that airline
   airlineList.addEventListener('change', function(e) {
@@ -157,7 +157,7 @@ function loadPeople(type) {
           html = [];
       html.push('<label for=\'checkbox-' +
           type + '\'><input type=\'checkbox\' id=\'checkbox-' +
-          type + '\' /> ' + 'Collaborators' + '</label>');
+          type + '\' /> ' + type + '</label>');
 
       rightMenu.append('<li>' + html.join('</li><li>') + '</li>');
     },

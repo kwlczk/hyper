@@ -240,12 +240,12 @@ var AirlineManager = function(data, models) {
           var person = people[i],
               route = {
                 origin: {
-                  lat: person.LAT,
-                  lon: person.LON,
+                  lat: person["Lat 1"],
+                  lon: person["Lon 1"],
                 },
                 destination: {
-                  lat: person["NATIONALITY LAT"],
-                  lon: person["NATIONALITY LON"]
+                  lat: person["Lat 2"],
+                  lon: person["Lon 2"]
                 }
               }
           var ans = this.createRoute(route, vertices.length / 3);

@@ -154,7 +154,7 @@ function loadPeople(type) {
           html = [];
       html.push('<label for=\'checkbox-' +
           type + '\'><input type=\'checkbox\' id=\'checkbox-' +
-          type + '\' /> ' + type + '</label>');
+          type + '\' /> ' + 'Collaborators' + '</label>');
 
       rightMenu.append('<li>' + html.join('</li><li>') + '</li>');
     },

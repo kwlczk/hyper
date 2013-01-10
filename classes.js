@@ -48,8 +48,8 @@ var RightMenu = function(airlineList, airlineMgr) {
 };
 
 RightMenu.prototype = {
-  load: function(html) {
-    this.airlineList.innerHTML = html;
+  append: function(html) {
+    this.airlineList.innerHTML += html;
   },
 
   onMouseMove: function(e) {
@@ -217,11 +217,8 @@ var AirlineManager = function(data, models) {
       var airlineIds = this.airlineIds,
           color = getAvailableColor(),
           airlines = models.airlines,
-          route = {
-            origin: data.airlines[airline].origin,
-            destination: data.airlines[airline].destination
-          },
           model = airlines[airline],
+          people = data.airlines[airline],
           samplings = 10,
           vertices = [],
           indices = [],
@@ -234,15 +231,29 @@ var AirlineManager = function(data, models) {
                      parsedColor[1] / (255 * 1.3),
                      parsedColor[2] / (255 * 1.3)];
 
+
       if (model) {
         model.uniforms.color = parsedColor;
       } else {
 
-        var ans = this.createRoute(route, vertices.length / 3);
-        vertices.push.apply(vertices, ans.vertices);
-        fromTo.push.apply(fromTo, ans.fromTo);
-        sample.push.apply(sample, ans.sample);
-        indices.push.apply(indices, ans.indices);
+        for (var i = 0, l = people.length; i < l; i++) {
+          var person = people[i],
+              route = {
+                origin: {
+                  lat: person.LAT,
+                  lon: person.LON,
+                },
+                destination: {
+                  lat: person["NATIONALITY LAT"],
+                  lon: person["NATIONALITY LON"]
+                }
+              }
+          var ans = this.createRoute(route, vertices.length / 3);
+          vertices.push.apply(vertices, ans.vertices);
+          fromTo.push.apply(fromTo, ans.fromTo);
+          sample.push.apply(sample, ans.sample);
+          indices.push.apply(indices, ans.indices);
+        }
 
         airlines[airline] = model = new O3D.Model({
           vertices: vertices,
@@ -346,8 +357,8 @@ var AirlineManager = function(data, models) {
     //creates a quadratic bezier curve as a route
     createRoute: function(route, offset) {
 
-      var c1 = this.getCoordinates(route.origin[2], route.origin[3]),
-          c2 = this.getCoordinates(route.destination[2], route.destination[3]),
+      var c1 = this.getCoordinates(route.origin.lat, route.origin.lon),
+          c2 = this.getCoordinates(route.destination.lat, route.destination.lon),
           p1 = c1.p,
           p2 = c2.p,
           p3 = p2.add(p1).$scale(0.5).$unit().$scale(p1.distTo(p2) / 3 + 1.2),

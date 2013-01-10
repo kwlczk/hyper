@@ -6,14 +6,14 @@ Scene.PICKING_RES = 1;
 var $ = function(id) { return document.getElementById(id); },
     $$ = function(selector) { return document.querySelectorAll(selector); },
     citiesWorker = new Worker('cities.js'),
-    data = { citiesRoutes: {}, airlinesRoutes: {} },
+    data = { citiesRoutes: {}, airlines: {} },
     models = { airlines: {} }, geom = {},
     airlineMgr = new AirlineManager(data, models),
     fx = new Fx({
       duration: 1000,
       transition: Fx.Transition.Expo.easeInOut
     }),
-    airlineList, pos, tooltip;
+    airlineList, pos, tooltip, rightMenu;
 
 //Get handles when document is ready
 document.onreadystatechange = function() {
@@ -21,6 +21,9 @@ document.onreadystatechange = function() {
 
     airlineList = $('airline-list');
     tooltip = $('tooltip');
+
+    // Create the right menu
+    rightMenu = new RightMenu(airlineList, airlineMgr);
 
     //Add search handler
     $('search').addEventListener('keyup', (function() {
@@ -119,7 +122,6 @@ function loadData() {
       data.cities = JSON.parse(json);
       citiesWorker.postMessage(data.cities);
       Log.write('Building models...');
-      loadStudents();
     },
     onProgress: function(e) {
       Log.write('Loading airports data, please wait...' +
@@ -129,64 +131,32 @@ function loadData() {
       Log.write('There was an error while fetching cities data.', true);
     }
   }).send();
+  loadPeople('alumni');
 
+  //when an airline is selected show all paths for that airline
+  airlineList.addEventListener('change', function(e) {
+    var target = e.target,
+        type = target.id.split("-")[1];
+    if (target.checked) {
+      airlineMgr.add(type);
+    } else {
+      airlineMgr.remove(type);
+    }
+  }, false);
 }
 
-function loadStudents() {
+function loadPeople(type) {
   //Request airline data
   new IO.XHR({
-    url: 'data/students.json',
+    url: 'data/' + type + '.json',
     onSuccess: function(json) {
-      var airlines = data.airlines = JSON.parse(json),
-          airlinePos = data.airlinePos = {},
-          html = [],
-          pi = Math.PI,
-          pi2 = pi * 2,
-          sin = Math.sin,
-          cos = Math.cos,
-          phi, theta, sinTheta, cosTheta, sinPhi, cosPhi;
-      //assuming the data will be available after the document is ready...
-      for (var i = 0, l = airlines.length; i < l; i++) {
-        var airline = airlines[i],
-            airlineId = i,
-            airlineName = airline[0]
+      var airlines = data.airlines[type] = JSON.parse(json),
+          html = [];
+      html.push('<label for=\'checkbox-' +
+          type + '\'><input type=\'checkbox\' id=\'checkbox-' +
+          type + '\' /> ' + type + '</label>');
 
-        airline.origin = data.cities[airline[1]]
-        airline.destination = data.cities[airline[2]]
-
-        // Change to airline.destination if you want the camera to focus on the destination
-        // Change to airline.origin if you want the camera to focus on the origin (when you select a name)
-        phi = pi - (+airline.destination[2] + 90) / 180 * pi;
-        theta = pi2 - (+airline.destination[3] + 180) / 360 * pi2;
-        sinTheta = sin(theta);
-        cosTheta = cos(theta);
-        sinPhi = sin(phi);
-        cosPhi = cos(phi);
-
-        airlinePos[airlineId] = [ cosTheta * sinPhi, cosPhi, sinTheta * sinPhi, phi, theta ];
-
-        html.push('<label for=\'checkbox-' +
-                  airlineId + '\'><input type=\'checkbox\' id=\'checkbox-' +
-                      airlineId + '\' /> ' + airlineName + '</label>');
-      }
-
-      //when an airline is selected show all paths for that airline
-      airlineList.addEventListener('change', function(e) {
-        var target = e.target,
-            airlineId = target.id.split('-')[1];
-
-        if (target.checked) {
-          airlineMgr.add(airlineId);
-          centerAirline(airlineId);
-        } else {
-            airlineMgr.remove(airlineId);
-        }
-      }, false);
-
-      //create right menu
-      var rightMenu = new RightMenu(airlineList, airlineMgr);
-      rightMenu.load('<li>' + html.join('</li><li>') + '</li>');
-
+      rightMenu.append('<li>' + html.join('</li><li>') + '</li>');
     },
     onError: function() {
       Log.write('There was an error while fetching airlines data.', true);
@@ -195,9 +165,8 @@ function loadStudents() {
 }
 
 //center the airline
-function centerAirline(airlineId) {
-  var pos = data.airlinePos[airlineId],
-      earth = models.earth,
+function centerAirline(pos) {
+  var earth = models.earth,
       cities = models.cities,
       phi = pos[3],
       theta = pos[4],

@@ -131,10 +131,10 @@ function loadData() {
       Log.write('There was an error while fetching cities data.', true);
     }
   }).send();
+  loadPeople('Hyperstudents');
   loadPeople('Collaborators');
   loadPeople('Alumni');
   loadPeople('Coworkers');
-  loadPeople('Students');
 
   //when an airline is selected show all paths for that airline
   airlineList.addEventListener('change', function(e) {

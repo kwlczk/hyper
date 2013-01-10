@@ -124,11 +124,11 @@ function loadData() {
       Log.write('Building models...');
     },
     onProgress: function(e) {
-      Log.write('Loading airports data, please wait...' +
+      Log.write('Loading Hyper data, sit down and relax...' +
                 (e.total ? Math.round(e.loaded / e.total * 1000) / 10 : ''));
     },
     onError: function() {
-      Log.write('There was an error while fetching cities data.', true);
+      Log.write('There was an error while fetching the Hyper data.', true);
     }
   }).send();
   loadPeople('Hyperstudents');
@@ -162,7 +162,7 @@ function loadPeople(type) {
       rightMenu.append('<li>' + html.join('</li><li>') + '</li>');
     },
     onError: function() {
-      Log.write('There was an error while fetching airlines data.', true);
+      Log.write('There was an error while fetching the Hyper data.', true);
     }
   }).send();
 }

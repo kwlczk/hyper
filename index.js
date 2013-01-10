@@ -132,6 +132,9 @@ function loadData() {
     }
   }).send();
   loadPeople('hypercollaborators');
+  loadPeople('hyperalumni');
+  loadPeople('hypercoworkers');
+  loadPeople('hyperstudents');
 
   //when an airline is selected show all paths for that airline
   airlineList.addEventListener('change', function(e) {

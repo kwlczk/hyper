@@ -1,146 +1,398 @@
 [
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "David Erixon\thttp://www.hyperisland.com/people/david-erixon\tLondon",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "David Erixon",
+		"url": "http://www.hyperisland.com/people/david-erixon",
+		"Location 1": "London, United Kingdom",
+		"Lat 1": "51.5081289",
+		"Lon 1": "-0.128005",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Rob Holzer\thttp://www.hyperisland.com/people/rob-holzer\tNew York",
-		"undefined": "United States\t40.8571998\t-73.9098602"
+		"name": "Rob Holzer",
+		"url": "http://www.hyperisland.com/people/rob-holzer",
+		"Location 1": "New York, United States",
+		"Lat 1": "40.8571998",
+		"Lon 1": "-73.9098602",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Max Samuels\thttp://www.hyperisland.com/people/max-samuels\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Max Samuels",
+		"url": "http://www.hyperisland.com/people/max-samuels",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Per H√•kansson\thttp://www.hyperisland.com/people/per-hakansson\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Per Håkansson",
+		"url": "http://www.hyperisland.com/people/per-hakansson",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Sky Freyss-Cole\thttp://www.hyperisland.com/people/sky-freyss-cole\tYarmouth",
-		"undefined": "United States\t38.8951118\t-77.0363658"
+		"name": "Sky Freyss-Cole",
+		"url": "http://www.hyperisland.com/people/sky-freyss-cole",
+		"Location 1": "Yarmouth, United States",
+		"Lat 1": "41.6759809",
+		"Lon 1": "-70.3011129",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Steve Goldberg\thttp://www.hyperisland.com/people/steve-goldberg\tNew York",
-		"undefined": "United States\t38.8951118\t-77.0363658"
+		"name": "Steve Goldberg",
+		"url": "http://www.hyperisland.com/people/steve-goldberg",
+		"Location 1": "New York, United States",
+		"Lat 1": "40.8571993",
+		"Lon 1": "-73.9098602",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Neil Perkin\thttp://www.hyperisland.com/people/neil-perkin\tGuildford",
-		"undefined": "United Kingdom\t51.5081289\t-0.128005"
+		"name": "Neil Perkin",
+		"url": "http://www.hyperisland.com/people/neil-perkin",
+		"Location 1": "Guildford, United Kingdom",
+		"Lat 1": "51.23622",
+		"Lon 1": "-0.570409",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Jakob Widerberg\thttp://www.hyperisland.com/people/jakob-widerberg\tLondon",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Jakob Widerberg",
+		"url": "http://www.hyperisland.com/people/jakob-widerberg",
+		"Location 1": "London, United Kingdom",
+		"Lat 1": "51.5081289",
+		"Lon 1": "-0.128005",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Petter W√§rnsberg\thttp://www.hyperisland.com/people/petter-warnsberg\tLondon",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Petter Wärnsberg",
+		"url": "http://www.hyperisland.com/people/petter-warnsberg",
+		"Location 1": "London, United Kingdom",
+		"Lat 1": "51.5081289",
+		"Lon 1": "-0.128005",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Thomas Bj√∂rk\thttp://www.hyperisland.com/people/thomas-bjork\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Thomas Björk",
+		"url": "http://www.hyperisland.com/people/thomas-bjork",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Fredrik M√•nsson\thttp://www.hyperisland.com/people/fredrik-mansson\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Fredrik Månsson",
+		"url": "http://www.hyperisland.com/people/fredrik-mansson",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.6024958",
+		"Lon 1": "18.1384383",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Lisa Lindstrom\thttp://www.hyperisland.com/people/lisa-lindstrom\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Lisa Lindstrom",
+		"url": "http://www.hyperisland.com/people/lisa-lindstrom",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Petter Mellander\thttp://www.hyperisland.com/people/petter-mellander\tMalmo",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Petter Mellander",
+		"url": "http://www.hyperisland.com/people/petter-mellander",
+		"Location 1": "Malmo, Sweden",
+		"Lat 1": "55.7583352",
+		"Lon 1": "13.003822",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Johan Sand√©n\thttp://www.hyperisland.com/people/johan-sanden\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Johan Sandén",
+		"url": "http://www.hyperisland.com/people/johan-sanden",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Rikard Uddenberg\thttp://www.hyperisland.com/people/rikard-uddenberg\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Rikard Uddenberg",
+		"url": "http://www.hyperisland.com/people/rikard-uddenberg",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Jonathan Briggs\thttp://www.hyperisland.com/people/jonathan-briggs\tSingapore",
-		"undefined": "United Kingdom\t51.5081289\t-0.128005"
+		"name": "Jonathan Briggs",
+		"url": "http://www.hyperisland.com/people/jonathan-briggs",
+		"Location 1": "Singapore, Singapore",
+		"Lat 1": "52.519171",
+		"Lon 1": "13.4060912",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Lauren Puglia\thttp://www.hyperisland.com/people/lauren-puglia\tNew York",
-		"undefined": "United States\t40.7143528\t-74.0059731"
+		"name": "Lauren Puglia",
+		"url": "http://www.hyperisland.com/people/lauren-puglia",
+		"Location 1": "New York, United States",
+		"Lat 1": "40.7143528",
+		"Lon 1": "-74.0059731",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Tim Leake\thttp://www.hyperisland.com/people/tim-leake\tNew York",
-		"undefined": "United States\t38.8951118\t-77.0363658"
+		"name": "Tim Leake",
+		"url": "http://www.hyperisland.com/people/tim-leake",
+		"Location 1": "New York, United States",
+		"Lat 1": "40.8571998",
+		"Lon 1": "-73.9098602",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "David Stypulkowski\thttp://www.hyperisland.com/people/david-stypulkowski\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "David Stypulkowski",
+		"url": "http://www.hyperisland.com/people/david-stypulkowski",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "M√•ns Adler\thttp://www.hyperisland.com/people/mans-adler\tKarlskrona",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Måns Adler",
+		"url": "http://www.hyperisland.com/people/mans-adler",
+		"Location 1": "Karlskrona, Sweden",
+		"Lat 1": "56.161224",
+		"Lon 1": "15.5869",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Darrell Whitelaw\thttp://www.hyperisland.com/people/darrell-whitelaw\tNew York",
-		"undefined": "United States\t38.8951118\t-77.0363658"
+		"name": "Darrell Whitelaw",
+		"url": "http://www.hyperisland.com/people/darrell-whitelaw",
+		"Location 1": "New York, United States",
+		"Lat 1": "40.7143528",
+		"Lon 1": "-74.0059731",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Joakim Jardenberg\thttp://www.hyperisland.com/people/joakim-jardenberg\tHelsingborg",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Joakim Jardenberg",
+		"url": "http://www.hyperisland.com/people/joakim-jardenberg",
+		"Location 1": "Helsingborg, Sweden",
+		"Lat 1": "56.0464674",
+		"Lon 1": "12.6945121",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Daniele Fiandaca\thttp://www.hyperisland.com/people/daniele-fiandaca\tLondon",
-		"undefined": "United Kingdom\t51.5081289\t-0.128005"
+		"name": "Daniele Fiandaca",
+		"url": "http://www.hyperisland.com/people/daniele-fiandaca",
+		"Location 1": "London, United Kingdom",
+		"Lat 1": "51.5073346",
+		"Lon 1": "-0.1276831",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Eduardo Jauregui\thttp://www.hyperisland.com/people/eduardo-jauregui\tMadrid",
-		"undefined": "Spain\t40.4167754\t-3.7037902"
+		"name": "Eduardo Jauregui",
+		"url": "http://www.hyperisland.com/people/eduardo-jauregui",
+		"Location 1": "Madrid, Spain",
+		"Lat 1": "40.4166909",
+		"Lon 1": "-3.7003454",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Sara Silfverberg\thttp://www.hyperisland.com/people/sara-silfverberg\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Sara Silfverberg",
+		"url": "http://www.hyperisland.com/people/sara-silfverberg",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "60.128161",
+		"Lon 1": "18.643501",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Thomas Reibke\thttp://www.hyperisland.com/people/thomas-reibke\tCopenhagen",
-		"undefined": "Denmark\t55.6760968\t12.5683371"
+		"name": "Thomas Reibke",
+		"url": "http://www.hyperisland.com/people/thomas-reibke",
+		"Location 1": "Copenhagen, Denmark",
+		"Lat 1": "55.6760968",
+		"Lon 1": "12.5683371",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Heidi Hackemer\thttp://www.hyperisland.com/people/heidi-hackemer\tNew York",
-		"undefined": "United States\t40.7143528\t-74.0059731"
+		"name": "Heidi Hackemer",
+		"url": "http://www.hyperisland.com/people/heidi-hackemer",
+		"Location 1": "New York, United States",
+		"Lat 1": "40.8571998",
+		"Lon 1": "-73.9098602",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Andr√©as Breiler\thttp://www.hyperisland.com/people/andreas-breiler\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Andréas Breiler",
+		"url": "http://www.hyperisland.com/people/andreas-breiler",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "60.128161",
+		"Lon 1": "18.643501",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Terri Simon\thttp://www.hyperisland.com/people/terri-simon\tLos Angeles",
-		"undefined": "United States\t38.8951118\t-77.0363658"
+		"name": "Terri Simon",
+		"url": "http://www.hyperisland.com/people/terri-simon",
+		"Location 1": "Los Angeles, United States",
+		"Lat 1": "33.916493",
+		"Lon 1": "-118.105976",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Olle Svensson\thttp://www.hyperisland.com/people/olle-svensson\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Olle Svensson",
+		"url": "http://www.hyperisland.com/people/olle-svensson",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Simon Kemp\thttp://www.hyperisland.com/people/simon-kemp\tSingapore",
-		"undefined": "United Kingdom\t51.5081289\t-0.128005"
+		"name": "Simon Kemp",
+		"url": "http://www.hyperisland.com/people/simon-kemp",
+		"Location 1": "Singapore, Singapore",
+		"Lat 1": "1.352083",
+		"Lon 1": "103.819836",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Christian Payne\thttp://www.hyperisland.com/people/christian-payne\tSt",
-		"undefined": "United Kingdom\t51.5081289\t-0.128005"
+		"name": "Christian Payne",
+		"url": "http://www.hyperisland.com/people/christian-payne",
+		"Location 1": "St, Neots, United Kingdom",
+		"Lat 1": "52.2280945",
+		"Lon 1": "-0.2715215",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Heather LeFevre\thttp://www.hyperisland.com/people/heather-lefevre\tAmsterdam",
-		"undefined": "United States\t38.8951118\t-77.0363658"
+		"name": "Heather LeFevre",
+		"url": "http://www.hyperisland.com/people/heather-lefevre",
+		"Location 1": "Amsterdam, Netherlands",
+		"Lat 1": "52.3702157",
+		"Lon 1": "4.8951679",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Henrik Johansson\thttp://www.hyperisland.com/people/henrik-johansson\tMalmo",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Henrik Johansson",
+		"url": "http://www.hyperisland.com/people/henrik-johansson",
+		"Location 1": "Malmo, Sweden",
+		"Lat 1": "55.7583352",
+		"Lon 1": "13.003822",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Mikael Ahlstrom\thttp://www.hyperisland.com/people/mikael-ahlstrom\tStockholm",
-		"undefined": "Sweden\t59.32893\t18.06491"
+		"name": "Mikael Ahlstrom",
+		"url": "http://www.hyperisland.com/people/mikael-ahlstrom",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	},
 	{
-		"NAME\tURL\tLOCATION\tLAT\tLON\tROLE\tNATIONALITY\tLAT\tLON": "Jim Babb\thttp://www.hyperisland.com/people/jim-babb\tNew York",
-		"undefined": "United States\t38.8951118\t-77.0363658"
+		"name": "Jim Babb",
+		"url": "http://www.hyperisland.com/people/jim-babb",
+		"Location 1": "New York, United States",
+		"Lat 1": "40.8571998",
+		"Lon 1": "-73.9098602",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"role": "collaborator"
 	}
 ]

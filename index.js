@@ -135,6 +135,7 @@ function loadData() {
   loadPeople('Collaborators');
   loadPeople('Alumni');
   loadPeople('Coworkers');
+  loadPeople('Hyperscomefrom');
 
   //when an airline is selected show all paths for that airline
   airlineList.addEventListener('change', function(e) {

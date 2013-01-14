@@ -143,6 +143,8 @@ function loadData() {
         type = target.id.split("-")[1];
     if (target.checked) {
       hypsterMgr.add(type);
+      centerHypster("sweden^stockholm");
+    
     } else {
       hypsterMgr.remove(type);
     }

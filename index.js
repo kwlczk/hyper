@@ -131,11 +131,11 @@ function loadData() {
       Log.write('There was an error while fetching the Hyper data.', true);
     }
   }).send();
-  loadPeople('Hyperstudents');
-  loadPeople('Collaborators');
-  loadPeople('Alumni');
-  loadPeople('Coworkers');
-  loadPeople('Hyperscomefrom');
+  loadPeople('Hyper Students');
+  loadPeople('Hyper Collaborators');
+  loadPeople('Hyper Alumni');
+  loadPeople('Hyper Coworkers');
+  loadPeople('Hyper nationalities');
 
   //when an Hypster is selected show all paths for that Hypster
   HypsterList.addEventListener('change', function(e) {

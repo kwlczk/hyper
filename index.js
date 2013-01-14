@@ -8,7 +8,7 @@ var $ = function(id) { return document.getElementById(id); },
     citiesWorker = new Worker('cities.js'),
     data = { citiesRoutes: {}, Hypsters: {} },
     models = { Hypsters: {} }, geom = {},
-    HypsterMgr = new HypsterManager(data, models),
+    hypsterMgr = new HypsterManager(data, models),
     fx = new Fx({
       duration: 1000,
       transition: Fx.Transition.Expo.easeInOut
@@ -23,7 +23,7 @@ document.onreadystatechange = function() {
     tooltip = $('tooltip');
 
     // Create the right menu
-    rightMenu = new RightMenu(HypsterList, HypsterMgr);
+    rightMenu = new RightMenu(HypsterList, hypsterMgr);
 
     //Add search handler
     $('search').addEventListener('keyup', (function() {
@@ -142,9 +142,9 @@ function loadData() {
     var target = e.target,
         type = target.id.split("-")[1];
     if (target.checked) {
-      HypsterMgr.add(type);
+      hypsterMgr.add(type);
     } else {
-      HypsterMgr.remove(type);
+      hypsterMgr.remove(type);
     }
   }, false);
 }
@@ -168,12 +168,16 @@ function loadPeople(type) {
   }).send();
 }
 
-//center the Hypster
-function centerHypster(pos) {
+//center the airline
+function centerHypster(city) {
+  var city = data.cities[city],
+      pi = Math.PI,
+      pi2 = pi * 2,
+      phi = pi - (+city[2] + 90) / 180 * pi,
+      theta = pi2 - (+city[3] + 180) / 360 * pi2;
+
   var earth = models.earth,
       cities = models.cities,
-      phi = pos[3],
-      theta = pos[4],
       phiPrev = geom.phi || Math.PI / 2,
       thetaPrev = geom.theta || (3 * Math.PI / 2),
       phiDiff = phi - phiPrev,
@@ -410,7 +414,7 @@ function createApp() {
       //nasty
       window.app = app;
       centerHypster.app = app;
-      HypsterMgr.app = app;
+      hypsterMgr.app = app;
 
       gl.clearColor(255, 255, 255, 1);
       gl.clearDepth(1);

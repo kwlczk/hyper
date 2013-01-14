@@ -134,10 +134,6 @@ function loadData() {
   loadPeople('Hyperstudents');
   loadPeople('Collaborators');
   loadPeople('Alumni');
-  loadPeople('test1');
-  loadPeople('test2');
-  loadPeople('test3');
-  loadPeople('test4');
   loadPeople('Coworkers');
   loadPeople('Coworkers');
   loadPeople('"Hypers" + " " + "come" + " " + "from"');

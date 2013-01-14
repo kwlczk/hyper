@@ -1,11 +1,11 @@
 html, body {
   text-align: center;
-  font-family: Verdana;
+  font-family: "Univers";
   margin: 0;
   padding: 0;
   font-size: 0.9em;
-  background-color: rgb(51, 51, 51);
-  color: white;
+  background-color: rgb(242, 242, 242);
+  color: black;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 }
 
 div#title {
-  margin: 20px;
+	margin: 0px;
 }
 
 div.description {
@@ -21,16 +21,25 @@ div.description {
 }
 
 a:link, a:visited {
-  color: #23A4FF;
+  color: black;
 }
 
 a:hover, a:active {
-  color: #6EC3FF;
+  color: black;
 }
 
 #container {
-  margin: auto;
-  width: 1100px;
+	position: relative;
+	margin: 0px;
+	width: 1100px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: 0;
+	border-right-style: 0;
+	border-bottom-style: 0;
+	border-left-style: 0;
 }
 
 body.no-webgl #container {
@@ -73,26 +82,26 @@ div.tooltip.hide {
 }
 
 #log-panel {
-  font-family: Arial;
+  font-family: Univers;
   margin: 0;
   position: fixed;
   top: 0;
   right: 0;
   padding: 5px;
   color: white;
-  background-color: red;
+  background-color: gray;
   font-weight: bold;
-  font-size: 1em;
+  font-size: 0.8em;
   z-index: 4000;
   border-bottom-left-radius: 0.5em;
 }
 
 
 .description {
-  font-size: 14px;
+  font-size: 0px;
   text-align: center;
-  margin: 10px auto;
-  padding: 3px;
+  margin: 0px;
+  padding: 0px;
 /*background-color: rgb(255, 241, 168);*/
 /*  border: 1px solid #ccc;*/
 }
@@ -105,11 +114,15 @@ h1 {
 #map {
   position: relative;
   height: 575px;
+  
 }
 
 .canvas-container {
-  margin: auto;
-  overflow: visible;
+	margin: 0px auto;
+	overflow: visible;
+	background-color: #FFF;
+	width: 1000px;
+	position: relative;
 }
 
 .canvas-container #canvas-wrapper, 
@@ -118,9 +131,11 @@ h1 {
 }
 
 #canvas-wrapper {
-  width: 700px;
-  height: 600px;
-  overflow: hidden;
+	width: 700px;
+	height: 600px;
+	overflow: hidden;
+	background-color: #FFF;
+	alignment-adjust: central;
 }
 
 #canvas-wrapper > canvas {
@@ -136,18 +151,18 @@ h1 {
   width: 250px;
   height: 30px;
   
-  background: -webkit-linear-gradient(top, rgba(51, 51, 51, 0.3), rgba(51, 51, 51, 1));
-  background: -moz-linear-gradient(top, rgba(51, 51, 51, 0.3), rgba(51, 51, 51, 1));
-  background: -o-linear-gradient(top, rgba(51, 51, 51, 0.3), rgba(51, 51, 51, 1));
-  background: linear-gradient(top, rgba(51, 51, 51, 0.3), rgba(51, 51, 51, 1));
+
 }
 
 input#search {
-  width: 240px;
+	width: 0px;
+	background-color: #FFF;
+	height: 0px;
 }
 
 .list-container {
-  height: 512px;
+	height: 512px;
+	padding: 5px;
 }
 
 .list-container {
@@ -175,14 +190,14 @@ ul#selected-airlines {
   margin: 0;
   padding: 0;
   text-align: left;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 ul#selected-airlines > li {
   position: relative;
   list-style: none;
   display: block;
-  color: white;
+  color: black;
   padding: 0;
   margin: 8px 0;
   cursor: pointer;
@@ -194,7 +209,7 @@ ul#selected-airlines > li:hover {
 
 ul#selected-airlines > li:nth-last-child(1) {
   border-bottom: 1px solid white;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 ul#selected-airlines > li .square {
@@ -213,15 +228,15 @@ ul#selected-airlines > li > input {
 ul#airline-list {
   font-size: 0.8em;
   list-style: none;
-  padding: 0;
-  margin-top: 1px;
+  padding: 1;
+  margin-top: 2px;
 }
 
 ul#airline-list > li {
   list-style: none;
   display: block;
   text-align: left;
-  color: white;
+  color: black;
 }
 
 ul#airline-list > li > label {
@@ -233,8 +248,9 @@ canvas {
 }
 
 .footer {
-  margin: 4px;
-  font-size: 0.8em;
+	margin: 0px auto;
+	font-size: 0.8em;
+	alignment-adjust: central;
 }
 
 #loading {

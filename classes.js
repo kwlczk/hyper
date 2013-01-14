@@ -182,13 +182,13 @@ var AirlineManager = function(data, models) {
   var airlineIdColor = {};
 
   var availableColors = {
-    '171, 217, 233': 0,
-    '253, 174, 97': 0,
-    '244, 109, 67': 0,
-    '255, 115, 136': 0,
-    '186, 247, 86': 0,
-    '220, 50, 50': 0
+    '4, 195, 165': 0,
+	'255, 215, 0': 0,
+    '254, 63, 0': 0,
+    '236, 26, 109': 0,
+    '103, 61, 159': 0,
   };
+
 
   var getAvailableColor = function() {
     var min = Infinity,
@@ -308,7 +308,7 @@ var AirlineManager = function(data, models) {
       this.app.scene.add(model);
       model.fx.start({
         delay: 0,
-        duration: 1800,
+        duration: 2000,
         onCompute: function(delta) {
           model.uniforms.delta = delta;
         },
@@ -323,7 +323,7 @@ var AirlineManager = function(data, models) {
       model.uniforms.animate = true;
       model.fx.start({
         delay: 0,
-        duration: 900,
+        duration: 1200,
         onCompute: function(delta) {
           model.uniforms.delta = (1 - delta);
         },

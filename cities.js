@@ -37,14 +37,14 @@ function createCitiesLayer(cities) {
         uy = cosPhi,
         uz = sinTheta * sinPhi,
         coords = [ux, uy, uz],
-        r = 0,
+        r =300,
         g = ((index / 256) >> 0) % 256,
         b = index % 256,
         sphere = new O3D.Sphere({
           nlat: 5,
           nlong: 5,
-          radius: 1 / 75,
-          pickingColors: [0, g / 255, b / 255, 1]
+          radius: 1 / 200,
+          pickingColors: [100, g / 55, b / 100, 1]
         }),
         tvertices = slice.call(sphere.vertices).map(function(v, i) { return coords[i % 3] + v; });
 

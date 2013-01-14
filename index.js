@@ -412,7 +412,7 @@ function createApp() {
       centerAirline.app = app;
       airlineMgr.app = app;
 
-      gl.clearColor(0.1, 0.1, 0.1, 1);
+      gl.clearColor(255, 255, 255, 1);
       gl.clearDepth(1);
       gl.enable(gl.DEPTH_TEST);
       gl.depthFunc(gl.LEQUAL);

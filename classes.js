@@ -32,24 +32,24 @@ var Log = {
 };
 
 //RightMenu
-var RightMenu = function(airlineList, airlineMgr) {
+var RightMenu = function(HypsterList, HypsterMgr) {
   var me = this;
-  me.airlineList = airlineList;
-  me.airlineMgr = airlineMgr;
-  me.selectedAirlines = $('selected-airlines');
+  me.HypsterList = HypsterList;
+  me.HypsterMgr = HypsterMgr;
+  me.selectedHypsters = $('selected-Hypsters');
 
-  airlineList.addEventListener('mousemove', function(e) { me.onMouseMove(e); }, false);
-  airlineList.addEventListener('mouseout', function(e) { me.onMouseOut(e); }, false);
-  airlineList.addEventListener('change', function(e) { me.onChange(e); }, false);
+  HypsterList.addEventListener('mousemove', function(e) { me.onMouseMove(e); }, false);
+  HypsterList.addEventListener('mouseout', function(e) { me.onMouseOut(e); }, false);
+  HypsterList.addEventListener('change', function(e) { me.onChange(e); }, false);
 
-  me.selectedAirlines.addEventListener('click', function(e) { me.onClick(e); }, false);
-  me.selectedAirlines.addEventListener('mousemove', function(e) { me.onHover(e); }, false);
-  me.selectedAirlines.addEventListener('mouseout', function (e) { me.onLeave(e); }, false);
+  me.selectedHypsters.addEventListener('click', function(e) { me.onClick(e); }, false);
+  me.selectedHypsters.addEventListener('mousemove', function(e) { me.onHover(e); }, false);
+  me.selectedHypsters.addEventListener('mouseout', function (e) { me.onLeave(e); }, false);
 };
 
 RightMenu.prototype = {
   append: function(html) {
-    this.airlineList.innerHTML += html;
+    this.HypsterList.innerHTML += html;
   },
 
   onMouseMove: function(e) {
@@ -97,7 +97,7 @@ RightMenu.prototype = {
   onMouseOut: function(e) {
     var nodeName = e.relatedTarget && e.relatedTarget.nodeName;
     if (nodeName && 'INPUT|LI|LABEL'.indexOf(nodeName) == -1) {
-      Array.prototype.slice.call(airlineList.getElementsByTagName('li')).forEach(function(elem) {
+      Array.prototype.slice.call(HypsterList.getElementsByTagName('li')).forEach(function(elem) {
         elem.style.fontSize = '1em';
       });
     }
@@ -106,18 +106,18 @@ RightMenu.prototype = {
   onChange: function(e) {
     var checkbox = e.target,
         label = checkbox.parentNode,
-        airlineId = checkbox.id.split('-')[1],
+        HypsterId = checkbox.id.split('-')[1],
         name = label.textContent,
-        airlineMgr = this.airlineMgr,
-        color = airlineMgr.getColor(airlineId) || airlineMgr.getAvailableColor();
+        HypsterMgr = this.HypsterMgr,
+        color = HypsterMgr.getColor(HypsterId) || HypsterMgr.getAvailableColor();
 
     if (checkbox.checked) {
-      this.selectedAirlines.innerHTML += '<li id=\'' + airlineId + '-selected\'>' +
-        '<input type=\'checkbox\' checked id=\'' + airlineId + '-checkbox-selected\' />' +
+      this.selectedHypsters.innerHTML += '<li id=\'' + HypsterId + '-selected\'>' +
+        '<input type=\'checkbox\' checked id=\'' + HypsterId + '-checkbox-selected\' />' +
         '<div class=\'square\' style=\'background-color:rgb(' + color + ');\' ></div>' +
         name + '</li>';
     } else {
-      var node = $(airlineId + '-selected');
+      var node = $(HypsterId + '-selected');
       node.parentNode.removeChild(node);
     }
   },
@@ -125,36 +125,36 @@ RightMenu.prototype = {
   onClick: function(e) {
     var target = e.target, node;
     if (target.nodeName == 'INPUT') {
-      var airlineId = target.parentNode.id.split('-')[0];
-      var checkbox = $('checkbox-' + airlineId);
+      var HypsterId = target.parentNode.id.split('-')[0];
+      var checkbox = $('checkbox-' + HypsterId);
       checkbox.checked = false;
-      airlineMgr.remove(airlineId);
+      HypsterMgr.remove(HypsterId);
       target = target.parentNode;
       node = target.nextSibling || target.previousSibling;
       target.parentNode.removeChild(target);
       if (node && node.id) {
-        centerAirline(node.id.split('-')[0]);
+        centerHypster(node.id.split('-')[0]);
       }
     } else {
       if (target.nodeName == 'DIV') {
         target = target.parentNode;
       }
-      centerAirline(target.id.split('-')[0]);
+      centerHypster(target.id.split('-')[0]);
     }
   },
 
   onHover: function(e) {
-    var target = e.target, airlineId;
+    var target = e.target, HypsterId;
     if (target.nodeName == 'INPUT') {
-      airlineId = target.parentNode.id.split('-')[0];
+      HypsterId = target.parentNode.id.split('-')[0];
     } else {
       if (target.nodeName == 'DIV') {
         target = target.parentNode;
       }
-      airlineId = target.id.split('-')[0];
+      HypsterId = target.id.split('-')[0];
     }
-    for (var name in models.airlines) {
-      models.airlines[name].lineWidth = name == airlineId ? 2 : 1;
+    for (var name in models.Hypsters) {
+      models.Hypsters[name].lineWidth = name == HypsterId ? 2 : 1;
     }
   },
 
@@ -163,23 +163,23 @@ RightMenu.prototype = {
         pn = rt && rt.parentNode,
         pn2 = pn && pn.parentNode;
 
-    if (rt != this.selectedAirlines &&
-        pn != this.selectedAirlines &&
-       pn2 != this.selectedAirlines) {
+    if (rt != this.selectedHypsters &&
+        pn != this.selectedHypsters &&
+       pn2 != this.selectedHypsters) {
 
-      for (var name in models.airlines) {
-        models.airlines[name].lineWidth = 1;
+      for (var name in models.Hypsters) {
+        models.Hypsters[name].lineWidth = 1;
       }
     }
   }
 };
 
-//AirlineManager
+//HypsterManager
 //Takes care of adding and removing routes
-//for the selected airlines
-var AirlineManager = function(data, models) {
+//for the selected Hypsters
+var HypsterManager = function(data, models) {
 
-  var airlineIdColor = {};
+  var HypsterIdColor = {};
 
   var availableColors = {
     '4, 195, 165': 0,
@@ -205,20 +205,20 @@ var AirlineManager = function(data, models) {
 
   return {
 
-    airlineIds: [],
+    HypsterIds: [],
 
-    getColor: function(airlineId) {
-        return airlineIdColor[airlineId];
+    getColor: function(HypsterId) {
+        return HypsterIdColor[HypsterId];
     },
 
     getAvailableColor: getAvailableColor,
 
-    add: function(airline) {
-      var airlineIds = this.airlineIds,
+    add: function(Hypster) {
+      var HypsterIds = this.HypsterIds,
           color = getAvailableColor(),
-          airlines = models.airlines,
-          model = airlines[airline],
-          people = data.airlines[airline],
+          Hypsters = models.Hypsters,
+          model = Hypsters[Hypster],
+          people = data.Hypsters[Hypster],
           samplings = 10,
           vertices = [],
           indices = [],
@@ -255,10 +255,10 @@ var AirlineManager = function(data, models) {
           indices.push.apply(indices, ans.indices);
         }
 
-        airlines[airline] = model = new O3D.Model({
+        Hypsters[Hypster] = model = new O3D.Model({
           vertices: vertices,
           indices: indices,
-          program: 'airline_layer',
+          program: 'Hypster_layer',
           uniforms: {
             color: parsedColor
           },
@@ -285,22 +285,22 @@ var AirlineManager = function(data, models) {
 
       this.show(model);
 
-      airlineIds.push(airline);
-      //set color for airline Id
+      HypsterIds.push(Hypster);
+      //set color for Hypster Id
       availableColors[color]++;
-      airlineIdColor[airline] = color;
+      HypsterIdColor[Hypster] = color;
     },
 
-    remove: function(airline) {
-      var airlines = models.airlines,
-          model = airlines[airline],
-          color = airlineIdColor[airline];
+    remove: function(Hypster) {
+      var Hypsters = models.Hypsters,
+          model = Hypsters[Hypster],
+          color = HypsterIdColor[Hypster];
 
       this.hide(model);
 
-      //unset color for airline Id.
+      //unset color for Hypster Id.
       availableColors[color]--;
-      delete airlineIdColor[airline];
+      delete HypsterIdColor[Hypster];
     },
 
     show: function(model) {

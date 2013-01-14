@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Eduardo Torres Fitch",
+		"url": "http://www.hyperisland.com/people/eduardo-torres-fitch",
+		"course": "Digital Media",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Mexico City, Mexico",
+		"Lat 2": "19.4326077",
+		"Lon 2": "-99.133208",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Don Vincent Ortega",
+		"url": "http://www.hyperisland.com/people/don-vincent-ortega",
+		"course": "Motion Graphics",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "New York, United States",
+		"Lat 2": "40.7064461",
+		"Lon 2": "-73.9536163",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Anne Helene Guldahl",
+		"url": "http://www.hyperisland.com/people/anne-helene-guldahl",
+		"course": "Interactive Art Director",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Oslo, Norway",
+		"Lat 2": "59.9138688",
+		"Lon 2": "10.7522454",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Dan Erik Ronnback",
+		"url": "http://www.hyperisland.com/people/dan-erik-ronnback",
+		"course": "Interactive Art Director",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Porsgrunn, Norway",
+		"Lat 2": "59.1385567",
+		"Lon 2": "9.6555147",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Jakub Burkot",
+		"url": "http://www.hyperisland.com/people/jakub-burkot",
+		"course": "Digital Media",
+		"role": "student",
+		"Location 1": "Karlskrona, Sweden",
+		"Lat 1": "56.161224",
+		"Lon 1": "15.5869",
+		"Location 2": "San Francisco, United States",
+		"Lat 2": "37.7749295",
+		"Lon 2": "-122.4194155",
+		"Graduation year": ""
+	}
+]

@@ -1,0 +1,67 @@
+[
+	{
+		"name": "Filippa Edghill",
+		"url": "http://www.hyperisland.com/people/filippa-edghill",
+		"course": "Digital Media",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Helsingborg, Sweden",
+		"Lat 2": "56.0464674",
+		"Lon 2": "12.6945121",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Agnes Pettersson",
+		"url": "http://www.hyperisland.com/people/agnes-pettersson",
+		"course": "Motion Graphics",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Karlskrona, Sweden",
+		"Lat 2": "56.161224",
+		"Lon 2": "15.5869",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Amina Kesraoui",
+		"url": "http://www.hyperisland.com/people/amina-kesraoui",
+		"course": "Digital Media",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "London, United Kingdom",
+		"Lat 2": "51.5073346",
+		"Lon 2": "-0.1276831",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Sofi(Zofi) Holgerson",
+		"url": "http://www.hyperisland.com/people/sofi-zofi-holgerson",
+		"course": "Learning Designer & Facilitator",
+		"role": "student",
+		"Location 1": "Karlskrona, Sweden",
+		"Lat 1": "56.161224",
+		"Lon 1": "15.5869",
+		"Location 2": "Lund, Sweden",
+		"Lat 2": "55.7046601",
+		"Lon 2": "13.1910073",
+		"Graduation year": "2013"
+	},
+	{
+		"name": "Maxwell Reed",
+		"url": "http://www.hyperisland.com/people/maxwell-reed",
+		"course": "Motion Graphics",
+		"role": "student",
+		"Location 1": "Stockholm, Sweden",
+		"Lat 1": "59.32893",
+		"Lon 1": "18.06491",
+		"Location 2": "Malmoe, Sweden",
+		"Lat 2": "55.604981",
+		"Lon 2": "13.003822",
+		"Graduation year": "2013"
+	}
+]

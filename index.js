@@ -64,7 +64,7 @@ document.onreadystatechange = function() {
 models.earth = new O3D.Sphere({
   nlat: 150,
   nlong: 150,
-  radius: 1,
+  radius: 5,
   uniforms: {
     shininess: 32
   },
@@ -124,7 +124,7 @@ function loadData() {
       Log.write('Building models...');
     },
     onProgress: function(e) {
-      Log.write('Loading Hyper data, sit down and relax...' +
+      Log.write('Loading the Hyper data, sit down and relax...' +
                 (e.total ? Math.round(e.loaded / e.total * 1000) / 10 : ''));
     },
     onError: function() {
@@ -134,8 +134,13 @@ function loadData() {
   loadPeople('Hyperstudents');
   loadPeople('Collaborators');
   loadPeople('Alumni');
+  loadPeople('test1');
+  loadPeople('test2');
+  loadPeople('test3');
+  loadPeople('test4');
   loadPeople('Coworkers');
-  loadPeople('Hyperscomefrom');
+  loadPeople('Coworkers');
+  loadPeople('"Hypers" + " " + "come" + " " + "from"');
 
   //when an airline is selected show all paths for that airline
   airlineList.addEventListener('change', function(e) {

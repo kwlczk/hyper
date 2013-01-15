@@ -463,7 +463,7 @@ function createApp() {
       centerHypster.app = app;
       hypsterMgr.app = app;
 
-      gl.clearColor(255, 255, 255, 1);
+      gl.clearColor(0, 0, 0, 1);
       gl.clearDepth(1);
       gl.enable(gl.DEPTH_TEST);
       gl.depthFunc(gl.LEQUAL);

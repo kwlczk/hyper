@@ -17,7 +17,7 @@ var $$ = function(selector) { return document.querySelectorAll(selector); },
 $(document).ready(function(){
     if (PhiloGL.hasWebGL()) {
       HypsterList = $('#Hypster-list');
-      tooltip = $('#tooltip');
+      tooltip = $('#tooltip')[0];
 
       // Create the right menu
       //rightMenu = new RightMenu(HypsterList, hypsterMgr);
@@ -438,7 +438,6 @@ function createApp() {
               name = data.citiesIndex[model.$pickingIndex].split('^'),
               textName = name[1][0].toUpperCase() + name[1].slice(1) + ', ' + name[0][0].toUpperCase() + name[0].slice(1),
               bbox = this.canvas.getBoundingClientRect();
-
           style.top = (e.y + 10 + bbox.top) + 'px';
           style.left = (e.x + 5 + bbox.left) + 'px';
           this.tooltip.className = 'tooltip show';
@@ -475,7 +474,7 @@ function createApp() {
           program = app.program,
           clearOpt = gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT;
 
-      app.tooltip = $('#tooltip');
+      app.tooltip = $('#tooltip')[0];
       //nasty
       window.app = app;
       centerHypster.app = app;

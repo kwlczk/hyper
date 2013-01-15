@@ -114,7 +114,7 @@ h1 {
 #map {
   position: relative;
   height: 575px;
-  
+
 }
 
 .canvas-container {
@@ -125,7 +125,7 @@ h1 {
 	position: relative;
 }
 
-.canvas-container #canvas-wrapper, 
+.canvas-container #canvas-wrapper,
 .canvas-container .list-wrapper {
   float: left;
 }
@@ -150,7 +150,7 @@ h1 {
   bottom: 0;
   width: 250px;
   height: 30px;
-  
+
 
 }
 
@@ -212,7 +212,7 @@ ul#selected-Hypsters > li:nth-last-child(1) {
   padding-bottom: 0px;
 }
 
-ul#selected-Hypsters > li .square {
+ul#Hypster-list > li .square {
   float: left;
   width: 10px;
   height: 10px;
@@ -232,14 +232,22 @@ ul#Hypster-list {
   margin-top: 2px;
 }
 
+ul#Hypster-list li {
+  text-align: left;
+  list-style: none;
+  width: 100%;
+}
+
+
 ul#Hypster-list > li {
   list-style: none;
   display: block;
   text-align: left;
   color: black;
+  float: left;
 }
 
-ul#Hypster-list > li > label {
+ul#Hypster-list > li label {
   cursor: pointer;
 }
 

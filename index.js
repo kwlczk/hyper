@@ -3,10 +3,9 @@ PhiloGL.unpack();
 Scene.PICKING_RES = 1;
 
 //some locals
-var $ = function(id) { return document.getElementById(id); },
-    $$ = function(selector) { return document.querySelectorAll(selector); },
+var $$ = function(selector) { return document.querySelectorAll(selector); },
     citiesWorker = new Worker('cities.js'),
-    data = { citiesRoutes: {}, Hypsters: {} },
+    data = { citiesRoutes: {}, Hypsters: {}, colors: {} },
     models = { Hypsters: {} }, geom = {},
     hypsterMgr = new HypsterManager(data, models),
     fx = new Fx({
@@ -15,50 +14,18 @@ var $ = function(id) { return document.getElementById(id); },
     }),
     HypsterList, pos, tooltip, rightMenu;
 
-//Get handles when document is ready
-document.onreadystatechange = function() {
-  if (document.readyState == 'complete' && PhiloGL.hasWebGL()) {
+$(document).ready(function(){
+    if (PhiloGL.hasWebGL()) {
+      HypsterList = $('#Hypster-list');
+      tooltip = $('#tooltip');
 
-    HypsterList = $('Hypster-list');
-    tooltip = $('tooltip');
+      // Create the right menu
+      //rightMenu = new RightMenu(HypsterList, hypsterMgr);
 
-    // Create the right menu
-    rightMenu = new RightMenu(HypsterList, hypsterMgr);
-
-    //Add search handler
-    $('search').addEventListener('keyup', (function() {
-      var timer = null,
-          parentNode = HypsterList.parentNode,
-          lis = HypsterList.getElementsByTagName('li'),
-          previousText = '';
-
-      function search(value) {
-        parentNode.removeChild(HypsterList);
-        for (var i = 0, l = lis.length; i < l; i++) {
-          var li = lis[i],
-              text = li.textContent || li.innerText;
-          li.style.display = text.trim().toLowerCase().indexOf(value) > -1 ? '' : 'none';
-        }
-        parentNode.appendChild(HypsterList);
-      }
-
-      return function(e) {
-        timer = clearTimeout(timer);
-        var trimmed = this.value.trim();
-        if (trimmed != previousText) {
-          timer = setTimeout(function() {
-            search(trimmed.toLowerCase());
-            previousText = trimmed;
-          }, 100);
-        }
-      };
-
-    })(), true);
-
-    //load dataset
-    loadData();
-  }
-};
+      //load dataset
+      loadData();
+    }
+});
 
 //Create earth
 models.earth = new O3D.Sphere({
@@ -137,32 +104,102 @@ function loadData() {
   loadPeople('Hyper Coworkers');
   loadPeople('Hyper nationalities');
 
+
   //when an Hypster is selected show all paths for that Hypster
-  HypsterList.addEventListener('change', function(e) {
+  HypsterList.live('change', function(e) {
     var target = e.target,
         type = target.id.split("-")[1];
-    if (target.checked) {
-      hypsterMgr.add(type);
-      centerHypster("sweden^stockholm");
-    
-    } else {
-      hypsterMgr.remove(type);
+
+    //debugger
+    if (!$(target).parent().parent().find('ul').length) {
+      if (target.checked) {
+        hypsterMgr.add(type);
+        centerHypster("egypt^cairo");
+
+      } else {
+        hypsterMgr.remove(type);
+      }
     }
-  }, false);
+  });
+
 }
 
 function loadPeople(type) {
+  HypsterList.append('<li id="filter-' + type.replace(" ", "-") + '"></li>' );
+  var color = data.colors[type] = hypsterMgr.generateColor();
   //Request Hypster data
   new IO.XHR({
     url: 'data/' + type + '.json',
     onSuccess: function(json) {
-      var Hypsters = data.Hypsters[type] = JSON.parse(json),
-          html = [];
-      html.push('<label for=\'checkbox-' +
-          type + '\'><input type=\'checkbox\' id=\'checkbox-' +
-          type + '\' /> ' + type + '</label>');
+      var json = JSON.parse(json),
+        categories = {},
+        multipleCategories = false;
 
-      rightMenu.append('<li>' + html.join('</li><li>') + '</li>');
+      for (var i = 0, l = json.length; i < l; i++) {
+        var person = json[i],
+            category = type;
+        if (person.course) {
+          multipleCategories = true;
+          category = type + "::" + person.course;
+        }
+        if (!categories[category]) {
+          categories[category] = [];
+          data.Hypsters[category] = {}
+        }
+        categories[category].push(person);
+      }
+
+      // Generate the filter list on the right!
+      html = ('<label for=\'checkbox-' +
+        type + '\'><input type=\'checkbox\' id=\'checkbox-' +
+        type + '\' /> ' + type + '</label>' +
+        '<div class=\'square\' style=\'background-color:rgb(' + color + ');\' ></div>');
+      data.Hypsters[type] = categories[type];
+
+      if (multipleCategories) {
+        var categoryHTML = [];
+        for (var category in categories) {
+          data.Hypsters[category] = categories[category];
+          data.colors[category] = color;
+          if (category != type) {
+            var name = category.split("::")[1]
+            categoryHTML.push('<li><label for=\'checkbox-' +
+            category + '\'><input type=\'checkbox\' id=\'checkbox-' +
+            category + '\' /> ' + name + '</label></li>');
+          }
+        }
+        html += '<ul class="subfilter">' + categoryHTML.join('') + '</ul>';
+      }
+      HypsterList.find("#filter-" + type.replace(" ", "-")).append(html);
+
+      if (multipleCategories) {
+        // Hide all subfilters at the start
+        HypsterList.find("ul:last").slideUp();
+        // Handler for clicking on filters
+        HypsterList.find("ul:last").each(function(e){
+          var _this = $(this);
+          var parent = _this.parent();
+          parent.find('input[type=checkbox]:first').change(function(e) {
+            if (this.checked) {
+              _this.slideDown();
+              _this.find("input[type=checkbox]").each(function(e){
+                if (!this.checked) {
+                  this.click();
+                }
+              });
+            } else {
+              _this.slideUp();
+              _this.find("input[type=checkbox]").each(function(e){
+                if (this.checked) {
+                  this.click();
+                }
+              });
+            }
+          });
+        });
+      };
+
+
     },
     onError: function() {
       Log.write('There was an error while fetching the Hyper data.', true);
@@ -412,7 +449,7 @@ function createApp() {
           program = app.program,
           clearOpt = gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT;
 
-      app.tooltip = $('tooltip');
+      app.tooltip = $('#tooltip');
       //nasty
       window.app = app;
       centerHypster.app = app;
@@ -463,8 +500,15 @@ function createApp() {
       //window.addEventListener('resize', this.events.onWindowResize, false);
 
       //Select first Hypster
-      $$('#Hypster-list li input')[0].click();
-      $('list-wrapper').style.display = '';
+     // $$('#Hypster-list li input')[0].click();
+      var timeout = setInterval(function(){
+        var input = $('#filter-Hyper-Students input[type=checkbox]:first')
+        if (input) {
+          input.click();
+          clearInterval(timeout);
+        }
+      }, 100);
+      $('#list-wrapper')[0].style.display = '';
 
       //Draw to screen
       function draw() {

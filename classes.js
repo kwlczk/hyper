@@ -7,7 +7,7 @@ var Log = {
 
   getElem: function() {
     if (!this.elem) {
-      return (this.elem = $('log-message'));
+      return (this.elem = $('#log-message'));
     }
     return this.elem;
   },
@@ -18,7 +18,7 @@ var Log = {
     }
 
     var elem = this.getElem(),
-        style = elem.parentNode.style;
+        style = elem.parent()[0].style;
 
     elem.innerHTML = text;
     style.display = '';
@@ -36,15 +36,15 @@ var RightMenu = function(HypsterList, HypsterMgr) {
   var me = this;
   me.HypsterList = HypsterList;
   me.HypsterMgr = HypsterMgr;
-  me.selectedHypsters = $('selected-Hypsters');
+  me.selectedHypsters = $('#selected-Hypsters');
 
-  HypsterList.addEventListener('mousemove', function(e) { me.onMouseMove(e); }, false);
-  HypsterList.addEventListener('mouseout', function(e) { me.onMouseOut(e); }, false);
-  HypsterList.addEventListener('change', function(e) { me.onChange(e); }, false);
+  HypsterList.on('mousemove', function(e) { me.onMouseMove(e); }, false);
+  HypsterList.on('mouseout', function(e) { me.onMouseOut(e); }, false);
+  HypsterList.on('change', function(e) { me.onChange(e); }, false);
 
-  me.selectedHypsters.addEventListener('click', function(e) { me.onClick(e); }, false);
-  me.selectedHypsters.addEventListener('mousemove', function(e) { me.onHover(e); }, false);
-  me.selectedHypsters.addEventListener('mouseout', function (e) { me.onLeave(e); }, false);
+  me.selectedHypsters.on('click', function(e) { me.onClick(e); }, false);
+  me.selectedHypsters.on('mousemove', function(e) { me.onHover(e); }, false);
+  me.selectedHypsters.on('mouseout', function (e) { me.onLeave(e); }, false);
 };
 
 RightMenu.prototype = {
@@ -57,11 +57,11 @@ RightMenu.prototype = {
         nodeName = target.nodeName;
 
     if (nodeName == 'INPUT') {
-      target = target.parentNode;
+      target = target.parent()[0];
     }
 
     if (nodeName == 'LABEL') {
-      target = target.parentNode;
+      target = target.parent()[0];
     }
 
     if (target.nodeName == 'LI') {
@@ -105,7 +105,7 @@ RightMenu.prototype = {
 
   onChange: function(e) {
     var checkbox = e.target,
-        label = checkbox.parentNode,
+        label = checkbox.parent()[0],
         HypsterId = checkbox.id.split('-')[1],
         name = label.textContent,
         HypsterMgr = this.HypsterMgr,
@@ -117,27 +117,27 @@ RightMenu.prototype = {
         '<div class=\'square\' style=\'background-color:rgb(' + color + ');\' ></div>' +
         name + '</li>';
     } else {
-      var node = $(HypsterId + '-selected');
-      node.parentNode.removeChild(node);
+      var node = $("#" + HypsterId + '-selected');
+      node.parent()[0].removeChild(node);
     }
   },
 
   onClick: function(e) {
     var target = e.target, node;
     if (target.nodeName == 'INPUT') {
-      var HypsterId = target.parentNode.id.split('-')[0];
-      var checkbox = $('checkbox-' + HypsterId);
+      var HypsterId = target.parent()[0].id.split('-')[0];
+      var checkbox = $('#checkbox-' + HypsterId);
       checkbox.checked = false;
       HypsterMgr.remove(HypsterId);
-      target = target.parentNode;
+      target = target.parent()[0];
       node = target.nextSibling || target.previousSibling;
-      target.parentNode.removeChild(target);
+      target.parent()[0].removeChild(target);
       if (node && node.id) {
         centerHypster(node.id.split('-')[0]);
       }
     } else {
       if (target.nodeName == 'DIV') {
-        target = target.parentNode;
+        target = target.parent()[0];
       }
       centerHypster(target.id.split('-')[0]);
     }
@@ -146,10 +146,10 @@ RightMenu.prototype = {
   onHover: function(e) {
     var target = e.target, HypsterId;
     if (target.nodeName == 'INPUT') {
-      HypsterId = target.parentNode.id.split('-')[0];
+      HypsterId = target.parent()[0].id.split('-')[0];
     } else {
       if (target.nodeName == 'DIV') {
-        target = target.parentNode;
+        target = target.parent()[0];
       }
       HypsterId = target.id.split('-')[0];
     }
@@ -160,8 +160,8 @@ RightMenu.prototype = {
 
   onLeave: function(e) {
     var rt = e.relatedTarget,
-        pn = rt && rt.parentNode,
-        pn2 = pn && pn.parentNode;
+        pn = rt && rt.parent()[0],
+        pn2 = pn && pn.parent()[0];
 
     if (rt != this.selectedHypsters &&
         pn != this.selectedHypsters &&
@@ -203,6 +203,7 @@ var HypsterManager = function(data, models) {
     return res;
   };
 
+
   return {
 
     HypsterIds: [],
@@ -211,11 +212,17 @@ var HypsterManager = function(data, models) {
         return HypsterIdColor[HypsterId];
     },
 
+    generateColor: function () {
+      var color = getAvailableColor();
+      availableColors[color]++;
+      return color;
+    },
+
     getAvailableColor: getAvailableColor,
 
     add: function(Hypster) {
       var HypsterIds = this.HypsterIds,
-          color = getAvailableColor(),
+          color = data.colors[Hypster],
           Hypsters = models.Hypsters,
           model = Hypsters[Hypster],
           people = data.Hypsters[Hypster],
@@ -287,7 +294,7 @@ var HypsterManager = function(data, models) {
 
       HypsterIds.push(Hypster);
       //set color for Hypster Id
-      availableColors[color]++;
+      //availableColors[color]++;
       HypsterIdColor[Hypster] = color;
     },
 
@@ -299,7 +306,7 @@ var HypsterManager = function(data, models) {
       this.hide(model);
 
       //unset color for Hypster Id.
-      availableColors[color]--;
+      //availableColors[color]--;
       delete HypsterIdColor[Hypster];
     },
 

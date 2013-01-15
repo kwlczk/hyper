@@ -270,7 +270,7 @@ var HypsterManager = function(data, models) {
             color: parsedColor
           },
           render: function(gl, program, camera) {
-              gl.lineWidth(this.lineWidth || 5);
+              gl.lineWidth(this.lineWidth || 2);
               gl.drawElements(gl.LINES, this.$indicesLength, gl.UNSIGNED_SHORT, 0);
           },
           attributes: {

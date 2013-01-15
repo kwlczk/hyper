@@ -4,7 +4,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-size: 0.9em;
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(242, 242, 242);
   color: black;
 }
 
@@ -19,8 +19,6 @@ h1 {
 
 div#title {
 	margin: 0px;
-	float: center;
-	padding: 0px;
 }
 
 div.description {
@@ -36,10 +34,17 @@ a:hover, a:active {
 }
 
 #container {
-	position: ;
+	position: relative;
 	margin: 0px;
 	width: 1100px;
-	
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: 0;
+	border-right-style: 0;
+	border-bottom-style: 0;
+	border-left-style: 0;
 }
 
 body.no-webgl #container {
@@ -82,19 +87,18 @@ div.tooltip.hide {
 }
 
 #log-panel {
-	font-family: Univers;
-	margin: 0;
-	position: absolute;
-	top: 0;
-	right: 0;
-	padding: 0px;
-	color: white;
-	background-color: gray;
-	font-weight: lighter;
-	font-size: 0.8em;
-	z-index: 0;
-	border-bottom-left-radius: 0em;
-	text-transform: capitalize;
+  font-family: Univers;
+  margin: 0;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  color: white;
+  background-color: gray;
+  font-weight: bold;
+  font-size: 0.8em;
+  z-index: 4000;
+  border-bottom-left-radius: 0.5em;
 }
 
 
@@ -123,7 +127,7 @@ h1 {
 	overflow: visible;
 	background-color: #FFF;
 	width: 1000px;
-	position: static;
+	position: relative;
 }
 
 .canvas-container #canvas-wrapper,
@@ -151,23 +155,19 @@ h1 {
   bottom: 0;
   width: 250px;
   height: 30px;
-<<<<<<< HEAD
 
-=======
-  color:
-  
->>>>>>> design changes - black
 
 }
 
 input#search {
-	width: 0cm;
-	height: 0cm;
+	width: 0px;
+	background-color: #FFF;
+	height: 0px;
 }
 
 .list-container {
 	height: 512px;
-	padding: 10px;
+	padding: 5px;
 }
 
 .list-container {
@@ -202,7 +202,7 @@ ul#selected-Hypsters > li {
   position: relative;
   list-style: none;
   display: block;
-  color: white;
+  color: black;
   padding: 0;
   margin: 8px 0;
   cursor: pointer;
@@ -248,12 +248,8 @@ ul#Hypster-list > li {
   list-style: none;
   display: block;
   text-align: left;
-<<<<<<< HEAD
   color: black;
   float: left;
-=======
-  color: white;
->>>>>>> design changes - black
 }
 
 ul#Hypster-list > li label {
@@ -269,7 +265,6 @@ canvas {
 	alignment-adjust: central;
 	width: 1100px;
 	margin-left: 20px;
-	float: center;
 }
 
 #loading {

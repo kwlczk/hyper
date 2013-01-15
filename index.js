@@ -113,6 +113,15 @@ function loadData() {
   loadPeople('Hyper Nationalities');
 
 
+
+  // Highlight the arcs when you hover on them
+  HypsterList.find('label').live('hover', function(e) {
+    var type = $(this).attr('for').split('-')[1];
+    for (var name in models.Hypsters) {
+      models.Hypsters[name].lineWidth = name == type ? 2 : 1;
+    }
+  });
+
   //when an Hypster is selected show all paths for that Hypster
   HypsterList.live('change', function(e) {
     var target = e.target,
@@ -154,7 +163,7 @@ function loadPeople(type) {
           multipleCategories = true;
           category = type + "::" + person.program;
         }
-        
+
         if (!categories[category]) {
           categories[category] = [];
           data.Hypsters[category] = {}

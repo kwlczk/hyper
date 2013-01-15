@@ -122,7 +122,7 @@ function loadData() {
     if (!$(target).parent().parent().find('ul').length) {
       if (target.checked) {
         hypsterMgr.add(type);
-        centerHypster("egypt^cairo");
+        centerHypster("greece^athens");
 
       } else {
         hypsterMgr.remove(type);

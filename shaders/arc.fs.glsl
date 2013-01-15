@@ -19,7 +19,7 @@ uniform float width;
 uniform float height;
 
 void main(void) {
-  vec4 fragmentColor = vec4(0.0, 0.0, 0.0, 0.0);
+  vec4 fragmentColor = vec4(0.3, 0.3, 0.3, 0.3);
   float dx;
   float dy;
   float ndx;

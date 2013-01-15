@@ -172,13 +172,13 @@ input#search {
 
 .list-container {
   overflow: auto;
-  width: 270px;
+  width: 300px;
 }
 
 .list-wrapper {
   position: relative;
   overflow: hidden;
-  width: 250px;
+  width: 300px;
   height: 560px;
 }
 
@@ -224,6 +224,10 @@ ul#Hypster-list > li .square {
   margin: 1px 4px 0 2px;
   border: 1px solid #555;
   border-radius: 1em;
+}
+
+ul#selected-Hypsters > li label {
+  cursor: pointer;
 }
 
 ul#selected-Hypsters > li > input {

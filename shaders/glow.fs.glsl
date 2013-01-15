@@ -16,7 +16,7 @@ uniform sampler2D sampler2;
 
 void main(void) {
   vec4 fragmentColor = vec4(0.0, 0.0, 0.0, 0.0);
-  vec2 blurSize = vec2(0.001, 0.001);
+  vec2 blurSize = vec2(0.002, 0.002);
   float dx;
   float dy;
 

@@ -310,8 +310,8 @@ function createApp() {
       id: 'Hypster_layer',
       from: 'uris',
       path: 'shaders/',
-      vs: 'Hypster_layer.vs.glsl',
-      fs: 'Hypster_layer.fs.glsl',
+      vs: 'hypster_layer.vs.glsl',
+      fs: 'hypster_layer.fs.glsl',
       noCache: true
     }, {
       //to render cities and routes

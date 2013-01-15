@@ -89,7 +89,7 @@ citiesWorker.onerror = function(e) {
 };
 
 function loadData() {
-  Log.write('Loading data...');
+  Log.write('Loading Hyper data...');
   //Request cities data
   new IO.XHR({
     url: 'data/cities.json',
@@ -110,7 +110,7 @@ function loadData() {
   loadPeople('Hyper Collaborators');
   loadPeople('Hyper Alumni');
   loadPeople('Hyper Coworkers');
-  loadPeople('Hyper nationalities');
+  loadPeople('Hyper Nationalities');
 
 
   //when an Hypster is selected show all paths for that Hypster
@@ -157,7 +157,7 @@ function loadPeople(type) {
         categories[category].push(person);
       }
 
-      // Generate the filter list on the right!
+      // Generate the filter list on the right! Najs!
       html = ('<label for=\'checkbox-' +
         type + '\'><input type=\'checkbox\' id=\'checkbox-' +
         type + '\' /> ' + type + '</label>' +

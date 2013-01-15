@@ -19,6 +19,7 @@ h1 {
 
 div#title {
 	margin: 0px;
+	style: none;
 }
 
 div.description {

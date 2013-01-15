@@ -43,7 +43,7 @@ models.earth = new O3D.Sphere({
   uniforms: {
     shininess: 32
   },
-  textures: ['img/earth.jpg'],
+  textures: ['img/earth2.jpg'],
   program: 'earth'
 });
 models.earth.rotation.set(Math.PI, 0,  0);
@@ -439,7 +439,7 @@ function createApp() {
       }
     },
     textures: {
-      src: ['img/earth.jpg']
+      src: ['img/earth2.jpg']
     },
     onError: function() {
       Log.write("There was an error creating the app.", true);

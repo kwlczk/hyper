@@ -24,6 +24,14 @@ $(document).ready(function(){
 
       //load dataset
       loadData();
+      // Uncomment if you want the scrollbars to lock when you're zooming
+     // $('#canvas-wrapper').on('mouseenter', function() {
+     //   $('body').addClass('stop-scrolling');
+     // });
+//
+     // $('#canvas-wrapper').on('mouseleave', function() {
+     //   $('body').removeClass('stop-scrolling');
+     // });
     }
 });
 

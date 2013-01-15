@@ -8,6 +8,11 @@ html, body {
   color: black;
 }
 
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
+
 h1 {
   font-family: Arial;
 }

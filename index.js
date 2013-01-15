@@ -150,12 +150,26 @@ function loadPeople(type) {
           multipleCategories = true;
           category = type + "::" + person.course;
         }
+        if (person.program) {
+          multipleCategories = true;
+          category = type + "::" + person.program;
+        }
+        
+        if (person.year) {
+          multipleCategories = true;
+          category = type + "::" + person.year;
+        }
+
         if (!categories[category]) {
           categories[category] = [];
           data.Hypsters[category] = {}
         }
         categories[category].push(person);
+
+
+
       }
+
 
       // Generate the filter list on the right! Najs!
       html = ('<label for=\'checkbox-' +

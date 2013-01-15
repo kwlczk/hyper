@@ -2,7 +2,7 @@
 	{
 		"name": "Abraham Asefaw",
 		"url": "http://www.hyperisland.com/people/abraham-asefaw",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -10,12 +10,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "AC Peoples",
 		"url": "http://www.hyperisland.com/people/ac-peoples",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -23,12 +23,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Adam Gafvert",
 		"url": "http://www.hyperisland.com/people/adam-gafvert",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -36,12 +36,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Agnes Pettersson",
 		"url": "http://www.hyperisland.com/people/agnes-pettersson",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -49,12 +49,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Aiste Andreja Lukosiunaite",
 		"url": "http://www.hyperisland.com/people/aiste-andreja-lukosiunaite",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -62,12 +62,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Ajla Imamovic",
 		"url": "http://www.hyperisland.com/people/ajla-imamovic",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -75,12 +75,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Alejandro Masferrer",
 		"url": "http://www.hyperisland.com/people/alejandro-masferrer",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -88,12 +88,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Alex Grolleman",
 		"url": "http://www.hyperisland.com/people/alex-grolleman",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -101,12 +101,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Alexander Venndt",
 		"url": "http://www.hyperisland.com/people/alexander-venndt",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -114,12 +114,12 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Alexey Ivanov",
 		"url": "http://www.hyperisland.com/people/alexey-ivanov",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -127,12 +127,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Alice Eriksson",
 		"url": "http://www.hyperisland.com/people/alice-eriksson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -140,12 +140,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Alissa Lorentz",
 		"url": "http://www.hyperisland.com/people/alissa-lorentz",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -153,12 +153,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Amanda Westin",
 		"url": "http://www.hyperisland.com/people/amanda-westin",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -166,12 +166,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Amilcar Guevara Torija",
 		"url": "http://www.hyperisland.com/people/amilcar-guevara-torija",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -179,12 +179,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Amina Kesraoui",
 		"url": "http://www.hyperisland.com/people/amina-kesraoui",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -192,12 +192,12 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Andre Engdahl Jofre",
 		"url": "http://www.hyperisland.com/people/andre-engdahl-jofre",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -205,12 +205,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Andreas Carlfors",
 		"url": "http://www.hyperisland.com/people/andreas-carlfors",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -218,12 +218,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Andreas Johansson",
 		"url": "http://www.hyperisland.com/people/andreas-johansson",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -231,12 +231,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Andreas Liljedahl",
 		"url": "http://www.hyperisland.com/people/andreas-liljedahl",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -244,12 +244,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Andreas Nordin",
 		"url": "http://www.hyperisland.com/people/andreas-nordin",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -257,12 +257,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Andreas Persson",
 		"url": "http://www.hyperisland.com/people/andreas-persson",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -270,12 +270,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Angelica Askvik",
 		"url": "http://www.hyperisland.com/people/angelica-askvik",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -283,12 +283,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Anna Franzen",
 		"url": "http://www.hyperisland.com/people/anna-franzen",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -296,12 +296,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Anne Helene Guldahl",
 		"url": "http://www.hyperisland.com/people/anne-helene-guldahl",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -309,12 +309,12 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Anton Andersson",
 		"url": "http://www.hyperisland.com/people/anton-andersson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -322,12 +322,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Anton Heestand",
 		"url": "http://www.hyperisland.com/people/anton-heestand",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -335,12 +335,12 @@
 		"Location 2": "Zierikzee, Netherlands",
 		"Lat 2": "51.6501218",
 		"Lon 2": "3.9184977",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Anton Lozinski",
 		"url": "http://www.hyperisland.com/people/anton-lozinski",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -348,12 +348,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Anton Reimertz",
 		"url": "http://www.hyperisland.com/people/anton-reimertz",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -361,12 +361,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Antonino Ognissanti",
 		"url": "http://www.hyperisland.com/people/antonino-ognissanti",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -374,12 +374,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Arild Amundsen",
 		"url": "http://www.hyperisland.com/people/arild-amundsen",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -387,12 +387,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Arnaud Spuhler",
 		"url": "http://www.hyperisland.com/people/arnaud-spuhler",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -400,12 +400,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Artem Bjork",
 		"url": "http://www.hyperisland.com/people/artem-bjork",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -413,12 +413,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Aryan Mirdavoud",
 		"url": "http://www.hyperisland.com/people/aryan-mirdavoud",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -426,12 +426,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Astrid Hongset",
 		"url": "http://www.hyperisland.com/people/astrid-hongset",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -439,12 +439,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Astrid Kowalczyk",
 		"url": "http://www.hyperisland.com/people/astrid-kowalczyk",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -452,12 +452,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Astrid Siem",
 		"url": "http://www.hyperisland.com/people/astrid-siem",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -465,12 +465,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Atli Hjartarson",
 		"url": "http://www.hyperisland.com/people/atli-hjartarson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -478,12 +478,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "August Levinson",
 		"url": "http://www.hyperisland.com/people/august-levinson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -491,12 +491,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "August Segerholm",
 		"url": "http://www.hyperisland.com/people/august-segerholm",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -504,12 +504,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Bjarki Helgason",
 		"url": "http://www.hyperisland.com/people/bjarki-helgason",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -517,12 +517,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Carl Johansen",
 		"url": "http://www.hyperisland.com/people/carl-johansen",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -530,12 +530,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Carl Oscar Lund Hansen",
 		"url": "http://www.hyperisland.com/people/carl-oscar-lund-hansen",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -543,12 +543,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Chloe Laisne",
 		"url": "http://www.hyperisland.com/people/chloe-laisne",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -556,12 +556,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Christer Dahlslett",
 		"url": "http://www.hyperisland.com/people/christer-dahlslett",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -569,12 +569,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Christian Stjernqvist",
 		"url": "http://www.hyperisland.com/people/christian-stjernqvist",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -582,12 +582,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Christin Malen",
 		"url": "http://www.hyperisland.com/people/christin-malen",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -595,12 +595,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Christina Holmstoel",
 		"url": "http://www.hyperisland.com/people/christina-holmstoel",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -608,12 +608,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Christoffer Morales Persson",
 		"url": "http://www.hyperisland.com/people/christoffer-morales-persson",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -621,12 +621,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Christopher Fisher",
 		"url": "http://www.hyperisland.com/people/christopher-fisher",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -634,12 +634,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Cornelia Ryas",
 		"url": "http://www.hyperisland.com/people/cornelia-ryas",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -647,12 +647,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Cornelis Antonius Plattel",
 		"url": "http://www.hyperisland.com/people/cornelis-antonius-plattel",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -660,12 +660,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Dan Erik Ronnback",
 		"url": "http://www.hyperisland.com/people/dan-erik-ronnback",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -673,12 +673,12 @@
 		"Location 2": "Porsgrunn, Norway",
 		"Lat 2": "59.1385567",
 		"Lon 2": "9.6555147",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Daniel Cansu",
 		"url": "http://www.hyperisland.com/people/daniel-cansu",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -686,12 +686,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Daniel Jonsson",
 		"url": "http://www.hyperisland.com/people/daniel-jonsson",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -699,12 +699,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Daniel Larsen",
 		"url": "http://www.hyperisland.com/people/daniel-larsen",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -712,12 +712,12 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Daniel McDonnell",
 		"url": "http://www.hyperisland.com/people/daniel-mcdonnell",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -725,12 +725,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "David Jegede",
 		"url": "http://www.hyperisland.com/people/david-jegede",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -738,12 +738,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Deniz Gun",
 		"url": "http://www.hyperisland.com/people/deniz-gun",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -751,12 +751,12 @@
 		"Location 2": "Uppsala, Sweden",
 		"Lat 2": "59.8585638",
 		"Lon 2": "17.6389267",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Diana Zuleta Arrieta",
 		"url": "http://www.hyperisland.com/people/diana-zuleta-arrieta",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -764,12 +764,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Dominic Plaza",
 		"url": "http://www.hyperisland.com/people/dominic-plaza",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -777,12 +777,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Don Vincent Ortega",
 		"url": "http://www.hyperisland.com/people/don-vincent-ortega",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -790,12 +790,12 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Eddie Astren",
 		"url": "http://www.hyperisland.com/people/eddie-astren",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -803,12 +803,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Edith Borjesson",
 		"url": "http://www.hyperisland.com/people/edith-borjesson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -816,12 +816,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Eduardo Torres Fitch",
 		"url": "http://www.hyperisland.com/people/eduardo-torres-fitch",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -829,12 +829,12 @@
 		"Location 2": "Mexico City, Mexico",
 		"Lat 2": "19.4326077",
 		"Lon 2": "-99.133208",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Elias Liedholm",
 		"url": "http://www.hyperisland.com/people/elias-liedholm",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -842,12 +842,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Ellinore Funck",
 		"url": "http://www.hyperisland.com/people/ellinore-funck",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -855,12 +855,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Emelie Sidesio",
 		"url": "http://www.hyperisland.com/people/emelie-sidesio",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -868,12 +868,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Emil Gynne",
 		"url": "http://www.hyperisland.com/people/emil-gynne",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -881,12 +881,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Emil Hedlund",
 		"url": "http://www.hyperisland.com/people/emil-hedlund",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -894,12 +894,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Emil Lownander",
 		"url": "http://www.hyperisland.com/people/emil-lownander",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -907,12 +907,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Erik Bergstrom",
 		"url": "http://www.hyperisland.com/people/erik-bergstrom",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -920,12 +920,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Ezekiel Aquino",
 		"url": "http://www.hyperisland.com/people/ezekiel-aquino",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -933,12 +933,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Filipp Slaouk",
 		"url": "http://www.hyperisland.com/people/filipp-slaouk",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -946,12 +946,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Filippa Edghill",
 		"url": "http://www.hyperisland.com/people/filippa-edghill",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -959,12 +959,12 @@
 		"Location 2": "Helsingborg, Sweden",
 		"Lat 2": "56.0464674",
 		"Lon 2": "12.6945121",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Filmon Ghirmay",
 		"url": "http://www.hyperisland.com/people/filmon-ghirmay",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -972,12 +972,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Francisco de Freitas",
 		"url": "http://www.hyperisland.com/people/francisco-de-freitas",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -985,12 +985,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Frederik Wiedel",
 		"url": "http://www.hyperisland.com/people/frederik-wiedel",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -998,12 +998,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Fredrik Dejert",
 		"url": "http://www.hyperisland.com/people/fredrik-dejert",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1011,12 +1011,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Fredrik Hamfelt",
 		"url": "http://www.hyperisland.com/people/fredrik-hamfelt",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1024,12 +1024,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Fredrik Ryden",
 		"url": "http://www.hyperisland.com/people/fredrik-ryden",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1037,12 +1037,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Frida Jansson",
 		"url": "http://www.hyperisland.com/people/frida-jansson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1050,12 +1050,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gabriel Comym",
 		"url": "http://www.hyperisland.com/people/gabriel-comym",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1063,12 +1063,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gabriel Jonsson",
 		"url": "http://www.hyperisland.com/people/gabriel-jonsson",
-		"course": "Learning Designer & Facilitator",
+		"program": "Learning Designer & Facilitator",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -1076,12 +1076,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gabriel Kolisch",
 		"url": "http://www.hyperisland.com/people/gabriel-kolisch",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1089,12 +1089,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gregory Carniel",
 		"url": "http://www.hyperisland.com/people/gregory-carniel",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1102,12 +1102,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gustav Ingvarsson",
 		"url": "http://www.hyperisland.com/people/gustav-ingvarsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1115,12 +1115,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gustav Jerlardtz",
 		"url": "http://www.hyperisland.com/people/gustav-jerlardtz",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1128,12 +1128,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gustav Runeberg Schultz",
 		"url": "http://www.hyperisland.com/people/gustav-runeberg-schultz",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1141,12 +1141,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gustavo Pereira",
 		"url": "http://www.hyperisland.com/people/gustavo-pereira",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1154,12 +1154,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Gye-Sung Chun",
 		"url": "http://www.hyperisland.com/people/gye-sung-chun",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1167,12 +1167,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Hakan Larsson",
 		"url": "http://www.hyperisland.com/people/hakan-larsson",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1180,12 +1180,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Hanna Edghill",
 		"url": "http://www.hyperisland.com/people/hanna-edghill",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1193,12 +1193,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Hanna Kulin",
 		"url": "http://www.hyperisland.com/people/hanna-kulin",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1206,12 +1206,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Hanna Lagerberg",
 		"url": "http://www.hyperisland.com/people/hanna-lagerberg",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1219,12 +1219,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Hanna Lilja",
 		"url": "http://www.hyperisland.com/people/hanna-lilja",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1232,12 +1232,12 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Hannah Ahl",
 		"url": "http://www.hyperisland.com/people/hannah-ahl",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1245,12 +1245,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Hanne Malmsten",
 		"url": "http://www.hyperisland.com/people/hanne-malmsten",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1258,12 +1258,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Henrik Baecklund",
 		"url": "http://www.hyperisland.com/people/henrik-baecklund",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1271,12 +1271,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Huy Nguyen",
 		"url": "http://www.hyperisland.com/people/huy-nguyen",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1284,12 +1284,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Ilya Yudanov",
 		"url": "http://www.hyperisland.com/people/ilya-yudanov",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1297,12 +1297,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Ingrid Konstanse Meyer Sunde",
 		"url": "http://www.hyperisland.com/people/ingrid-konstanse-meyer-sunde",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1310,12 +1310,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Irene Olkerud",
 		"url": "http://www.hyperisland.com/people/irene-olkerud",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1323,12 +1323,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Itai Peleg",
 		"url": "http://www.hyperisland.com/people/itai-peleg",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1336,12 +1336,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jack Wild",
 		"url": "http://www.hyperisland.com/people/jack-wild",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1349,12 +1349,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jacob Gunnarsson",
 		"url": "http://www.hyperisland.com/people/jacob-gunnarsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1362,12 +1362,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jacqueline Sibert",
 		"url": "http://www.hyperisland.com/people/jacqueline-sibert",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1375,12 +1375,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jana Hernandez",
 		"url": "http://www.hyperisland.com/people/jana-hernandez",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1388,12 +1388,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jannicke Hvidsand",
 		"url": "http://www.hyperisland.com/people/jannicke-hvidsand",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1401,12 +1401,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jasmin Yahya",
 		"url": "http://www.hyperisland.com/people/jasmin-yahya",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1414,12 +1414,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jennie Persson",
 		"url": "http://www.hyperisland.com/people/jennie-persson",
-		"course": "Learning Designer & Facilitator",
+		"program": "Learning Designer & Facilitator",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -1427,12 +1427,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jenny Bergman",
 		"url": "http://www.hyperisland.com/people/jenny-bergman",
-		"course": "Learning Designer & Facilitator",
+		"program": "Learning Designer & Facilitator",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -1440,12 +1440,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jenny Gunnarsson",
 		"url": "http://www.hyperisland.com/people/jenny-gunnarsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1453,12 +1453,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jessica Baban",
 		"url": "http://www.hyperisland.com/people/jessica-baban",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1466,12 +1466,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Joakim Wimmerstedt",
 		"url": "http://www.hyperisland.com/people/joakim-wimmerstedt",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1479,12 +1479,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Joanne Lam",
 		"url": "http://www.hyperisland.com/people/joanne-lam",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1492,12 +1492,12 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Johan Matsgard",
 		"url": "http://www.hyperisland.com/people/johan-matsgard",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1505,12 +1505,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Johan Olsson",
 		"url": "http://www.hyperisland.com/people/johan-olsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1518,12 +1518,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Johan Sjoholm",
 		"url": "http://www.hyperisland.com/people/johan-sjoholm",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1531,12 +1531,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Johan Stromqvist",
 		"url": "http://www.hyperisland.com/people/johan-stromqvist",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1544,12 +1544,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Johanna Lindskog Lindell",
 		"url": "http://www.hyperisland.com/people/johanna-lindskog-lindell",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1557,12 +1557,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jonas Linder",
 		"url": "http://www.hyperisland.com/people/jonas-linder",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1570,12 +1570,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jonas Persson",
 		"url": "http://www.hyperisland.com/people/jonas-persson--2",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1583,12 +1583,12 @@
 		"Location 2": "Falkenberg, Sweden",
 		"Lat 2": "56.9027333",
 		"Lon 2": "12.4888013",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jonatan Pettersson",
 		"url": "http://www.hyperisland.com/people/jonatan-pettersson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1596,12 +1596,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Jorgen Sibbern",
 		"url": "http://www.hyperisland.com/people/jorgen-sibbern",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1609,12 +1609,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Josefine Barjed",
 		"url": "http://www.hyperisland.com/people/josefine-barjed",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1622,12 +1622,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Josefine Gustafsson",
 		"url": "http://www.hyperisland.com/people/josefine-gustafsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1635,12 +1635,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Josefine Olsson",
 		"url": "http://www.hyperisland.com/people/josefine-olsson",
-		"course": "Learning Designer & Facilitator",
+		"program": "Learning Designer & Facilitator",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -1648,12 +1648,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Josefine Thomasson",
 		"url": "http://www.hyperisland.com/people/josefine-thomasson",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1661,12 +1661,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Julie Fahler",
 		"url": "http://www.hyperisland.com/people/julie-fahler",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1674,12 +1674,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Julien Donck",
 		"url": "http://www.hyperisland.com/people/julien-donck",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1687,12 +1687,12 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Karl Sandgren",
 		"url": "http://www.hyperisland.com/people/karl-sandgren",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1700,12 +1700,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Karolina Friberg",
 		"url": "http://www.hyperisland.com/people/karolina-friberg--2",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1713,12 +1713,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Karoline Engemoen Kristoffersen",
 		"url": "http://www.hyperisland.com/people/karoline-engemoen-kristoffersen",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1726,12 +1726,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Katarina Pavlovic",
 		"url": "http://www.hyperisland.com/people/katarina-pavlovic",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1739,12 +1739,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Katja Freitag",
 		"url": "http://www.hyperisland.com/people/katja-freitag",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1752,12 +1752,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Ketan Mekarta",
 		"url": "http://www.hyperisland.com/people/ketan-mekarta",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1765,12 +1765,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Kimmy Bolke",
 		"url": "http://www.hyperisland.com/people/kimmy-bolke",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1778,12 +1778,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Klara  Heikkinen",
 		"url": "http://www.hyperisland.com/people/klara-heikkinen",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1791,12 +1791,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Leandro Santini",
 		"url": "http://www.hyperisland.com/people/leandro-santini",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1804,12 +1804,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Linn Fritz",
 		"url": "http://www.hyperisland.com/people/linn-fritz",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1817,12 +1817,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Linn Svenningson",
 		"url": "http://www.hyperisland.com/people/linn-svenningson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1830,12 +1830,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Lisa Arfwidson",
 		"url": "http://www.hyperisland.com/people/lisa-arfwidson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1843,12 +1843,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Lisa Lowenborg",
 		"url": "http://www.hyperisland.com/people/lisa-lowenborg",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1856,12 +1856,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Lovisa Levin",
 		"url": "http://www.hyperisland.com/people/lovisa-levin",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1869,12 +1869,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Magnus Jonsson",
 		"url": "http://www.hyperisland.com/people/magnus-jonsson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1882,12 +1882,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Maksimilian Kallhed",
 		"url": "http://www.hyperisland.com/people/maksimilian-kallhed--2",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1895,12 +1895,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Malin Larsson",
 		"url": "http://www.hyperisland.com/people/malin-larsson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1908,12 +1908,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Marc Scherlin",
 		"url": "http://www.hyperisland.com/people/marc-scherlin",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1921,12 +1921,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Maria Gahm",
 		"url": "http://www.hyperisland.com/people/maria-gahm",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1934,12 +1934,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Marius Feldmann",
 		"url": "http://www.hyperisland.com/people/marius-feldmann",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1947,12 +1947,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Markus Dahlbom",
 		"url": "http://www.hyperisland.com/people/markus-dahlbom",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1960,12 +1960,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Markus Frick",
 		"url": "http://www.hyperisland.com/people/markus-frick",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1973,12 +1973,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Marlies Deforche",
 		"url": "http://www.hyperisland.com/people/marlies-deforche",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1986,12 +1986,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Martin Dahlberg",
 		"url": "http://www.hyperisland.com/people/martin-dahlberg",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -1999,12 +1999,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Mathias Eriksson",
 		"url": "http://www.hyperisland.com/people/mathias-eriksson",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2012,12 +2012,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Mathias Host Normark",
 		"url": "http://www.hyperisland.com/people/mathias-host-normark",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2025,12 +2025,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Matilda Bengtsson",
 		"url": "http://www.hyperisland.com/people/matilda-bengtsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2038,12 +2038,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Max Jacobson",
 		"url": "http://www.hyperisland.com/people/max-jacobson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2051,12 +2051,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Max Less",
 		"url": "http://www.hyperisland.com/people/max-less",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2064,12 +2064,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Maxwell Reed",
 		"url": "http://www.hyperisland.com/people/maxwell-reed",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2077,12 +2077,12 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Michelle Tully",
 		"url": "http://www.hyperisland.com/people/michelle-tully",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2090,12 +2090,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Mikael Ingeltun",
 		"url": "http://www.hyperisland.com/people/mikael-ingeltun",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2103,12 +2103,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Mikael Westman",
 		"url": "http://www.hyperisland.com/people/mikael-westman",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2116,12 +2116,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Moira Ganley",
 		"url": "http://www.hyperisland.com/people/moira-ganley",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2129,12 +2129,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Molly Renneus",
 		"url": "http://www.hyperisland.com/people/molly-renneus",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2142,12 +2142,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Morten Kuhl Christensen",
 		"url": "http://www.hyperisland.com/people/morten-kuhl-christensen",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2155,12 +2155,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Mugur Bucuresteanu",
 		"url": "http://www.hyperisland.com/people/mugur-bucuresteanu",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2168,12 +2168,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Naiara Seara",
 		"url": "http://www.hyperisland.com/people/naiara-seara",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2181,12 +2181,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Natsai Mandisodza",
 		"url": "http://www.hyperisland.com/people/natsai-mandisodza",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2194,12 +2194,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Nils Gare Hejll",
 		"url": "http://www.hyperisland.com/people/nils-gare-hejll",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2207,12 +2207,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Nils Helmersson",
 		"url": "http://www.hyperisland.com/people/nils-helmersson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2220,12 +2220,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Nina Hindrikson",
 		"url": "http://www.hyperisland.com/people/nina-hindrikson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2233,12 +2233,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Oliver Clutterbuck",
 		"url": "http://www.hyperisland.com/people/oliver-clutterbuck",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2246,12 +2246,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Olivier Ramirez",
 		"url": "http://www.hyperisland.com/people/olivier-ramirez",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2259,12 +2259,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Pavel Necas",
 		"url": "http://www.hyperisland.com/people/pavel-necas",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2272,12 +2272,12 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Pepe Borras",
 		"url": "http://www.hyperisland.com/people/pepe-borras",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2285,12 +2285,12 @@
 		"Location 2": "Valencia, Spain",
 		"Lat 2": "39.4702393",
 		"Lon 2": "-0.3768049",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Per Lagerback",
 		"url": "http://www.hyperisland.com/people/per-lagerback",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2298,12 +2298,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Pernille Ravn",
 		"url": "http://www.hyperisland.com/people/pernille-ravn",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2311,12 +2311,12 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Peter Eneroth",
 		"url": "http://www.hyperisland.com/people/peter-eneroth",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2324,12 +2324,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Peter Sundberg",
 		"url": "http://www.hyperisland.com/people/peter-sundberg",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2337,12 +2337,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Petter Samuelsen",
 		"url": "http://www.hyperisland.com/people/petter-samuelsen",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2350,12 +2350,12 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Philippe Sainz",
 		"url": "http://www.hyperisland.com/people/philippe-sainz",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2363,12 +2363,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Pierre Kley-Gomez",
 		"url": "http://www.hyperisland.com/people/pierre-kley-gomez",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2376,12 +2376,12 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Prakash Khatri Chhetri",
 		"url": "http://www.hyperisland.com/people/prakash-khatri-chhetri",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2389,12 +2389,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Prakash Nair",
 		"url": "http://www.hyperisland.com/people/prakash-nair",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2402,12 +2402,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Rafael Coimbra",
 		"url": "http://www.hyperisland.com/people/rafael-coimbra",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2415,12 +2415,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Rasmus Bengtsson",
 		"url": "http://www.hyperisland.com/people/rasmus-bengtsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2428,12 +2428,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Rasmus Lowenbraat",
 		"url": "http://www.hyperisland.com/people/rasmus-lowenbraat",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2441,12 +2441,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Rebekka Quiroz Wiberg",
 		"url": "http://www.hyperisland.com/people/rebekka-quiroz-wiberg",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2454,12 +2454,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Robin Andersen",
 		"url": "http://www.hyperisland.com/people/robin-andersen",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2467,12 +2467,12 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Robin Radenman",
 		"url": "http://www.hyperisland.com/people/robin-radenman",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2480,12 +2480,12 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Robin Wellstrom",
 		"url": "http://www.hyperisland.com/people/robin-wellstrom",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2493,12 +2493,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Rodrigo Andrade",
 		"url": "http://www.hyperisland.com/people/rodrigo-andrade",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2506,12 +2506,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sabina Lajiq",
 		"url": "http://www.hyperisland.com/people/sabina-lajiq",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2519,12 +2519,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Samuel Kantala Delgado",
 		"url": "http://www.hyperisland.com/people/samuel-kantala-delgado",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2532,12 +2532,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sanna Nilsson",
 		"url": "http://www.hyperisland.com/people/sanna-nilsson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2545,12 +2545,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sanna Westermark",
 		"url": "http://www.hyperisland.com/people/sanna-westermark",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2558,12 +2558,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sebastian Arvidsson",
 		"url": "http://www.hyperisland.com/people/sebastian-arvidsson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2571,12 +2571,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sebastian Drab",
 		"url": "http://www.hyperisland.com/people/sebastian-drab",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2584,12 +2584,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sebastian Hoglund",
 		"url": "http://www.hyperisland.com/people/sebastian-hoglund",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2597,12 +2597,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sebastian kesson",
 		"url": "http://www.hyperisland.com/people/sebastian-kesson",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2610,12 +2610,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sebastian Otarola",
 		"url": "http://www.hyperisland.com/people/sebastian-otarola",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2623,12 +2623,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Simon Gussing",
 		"url": "http://www.hyperisland.com/people/simon-gussing",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2636,12 +2636,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sofi(Zofi) Holgerson",
 		"url": "http://www.hyperisland.com/people/sofi-zofi-holgerson",
-		"course": "Learning Designer & Facilitator",
+		"program": "Learning Designer & Facilitator",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -2649,12 +2649,12 @@
 		"Location 2": "Lund, Sweden",
 		"Lat 2": "55.7046601",
 		"Lon 2": "13.1910073",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sofia Lindberg Parker",
 		"url": "http://www.hyperisland.com/people/sofia-lindberg-parker",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2662,12 +2662,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Sonali Ranjit",
 		"url": "http://www.hyperisland.com/people/sonali-ranjit",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2675,12 +2675,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Soumar Taliaa",
 		"url": "http://www.hyperisland.com/people/soumar-taliaa",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2688,12 +2688,12 @@
 		"Location 2": "Vienna, Austria",
 		"Lat 2": "48.2081743",
 		"Lon 2": "16.3738189",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Steffen Lyhne Jensen",
 		"url": "http://www.hyperisland.com/people/steffen-lyhne-jensen",
-		"course": "Motion Graphics",
+		"program": "Motion Graphics",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2701,12 +2701,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Subhendu Mukherjee",
 		"url": "http://www.hyperisland.com/people/subhendu-mukherjee",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2714,12 +2714,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Teodor Abreu",
 		"url": "http://www.hyperisland.com/people/teodor-abreu",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2727,12 +2727,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Thijs van der Hoorn",
 		"url": "http://www.hyperisland.com/people/thijs-van-der-hoorn",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2740,12 +2740,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Thomas Tessier",
 		"url": "http://www.hyperisland.com/people/thomas-tessier",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2753,12 +2753,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Tobias Snall",
 		"url": "http://www.hyperisland.com/people/tobias-snall",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2766,12 +2766,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Tom Gustafsson",
 		"url": "http://www.hyperisland.com/people/tom-gustafsson",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2779,12 +2779,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Tonje Helene Hiis",
 		"url": "http://www.hyperisland.com/people/tonje-helene-hiis",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2792,12 +2792,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Tony Hjartstrom",
 		"url": "http://www.hyperisland.com/people/tony-hjartstrom",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2805,12 +2805,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Ville Viinikka",
 		"url": "http://www.hyperisland.com/people/ville-viinikka",
-		"course": "Digital Data Strategist",
+		"program": "Digital Data Strategist",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2818,12 +2818,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "William Andersson",
 		"url": "http://www.hyperisland.com/people/william-andersson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2831,12 +2831,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Wout Arets",
 		"url": "http://www.hyperisland.com/people/wout-arets",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2844,12 +2844,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Zlatko Corluka",
 		"url": "http://www.hyperisland.com/people/zlatko-corluka",
-		"course": "Interactive Art Director",
+		"program": "Interactive Art Director",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2857,12 +2857,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Zulfiqar Haidari",
 		"url": "http://www.hyperisland.com/people/zulfiqar-haidari",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2870,12 +2870,12 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2013"
+		"year": "2013"
 	},
 	{
 		"name": "Alexander Collin",
 		"url": "http://www.hyperisland.com/people/alexander-collin",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2883,12 +2883,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Andreas Arvidsson",
 		"url": "http://www.hyperisland.com/people/andreas-arvidsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2896,12 +2896,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Andreas Chang",
 		"url": "http://www.hyperisland.com/people/andreas-chang",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2909,12 +2909,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Annet Kloprogge",
 		"url": "http://www.hyperisland.com/people/annet-kloprogge",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2922,12 +2922,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Clara Lundberg",
 		"url": "http://www.hyperisland.com/people/clara-lundberg",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2935,12 +2935,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Daniel Rorbaek",
 		"url": "http://www.hyperisland.com/people/daniel-rorbaek",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2948,12 +2948,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "David Fahl",
 		"url": "http://www.hyperisland.com/people/david-fahl",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2961,12 +2961,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Didrik Persson",
 		"url": "http://www.hyperisland.com/people/didrik-persson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2974,12 +2974,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Dominique Hernandez",
 		"url": "http://www.hyperisland.com/people/dominique-hernandez",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -2987,12 +2987,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Dongjiao Xu",
 		"url": "http://www.hyperisland.com/people/dongjiao-xu",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3000,12 +3000,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Fabian Biel",
 		"url": "http://www.hyperisland.com/people/fabian-biel",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3013,12 +3013,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Filip Andersson",
 		"url": "http://www.hyperisland.com/people/filip-andersson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3026,12 +3026,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Fred Abrahamson",
 		"url": "http://www.hyperisland.com/people/fred-abrahamson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3039,12 +3039,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Huiyi Choo",
 		"url": "http://www.hyperisland.com/people/huiyi-choo",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3052,12 +3052,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Joakim Runeson",
 		"url": "http://www.hyperisland.com/people/joakim-runeson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3065,12 +3065,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Joel Lundblad",
 		"url": "http://www.hyperisland.com/people/joel-lundblad",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3078,12 +3078,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Julia Fogelberg",
 		"url": "http://www.hyperisland.com/people/julia-fogelberg",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3091,12 +3091,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Julia Wallin",
 		"url": "http://www.hyperisland.com/people/julia-wallin",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3104,12 +3104,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Konstantin Ivanov",
 		"url": "http://www.hyperisland.com/people/konstantin-ivanov",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3117,12 +3117,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Liisa Frang",
 		"url": "http://www.hyperisland.com/people/liisa-frang",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3130,12 +3130,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Madie Dorodny",
 		"url": "http://www.hyperisland.com/people/madie-dorodny",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3143,12 +3143,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Mathilda Lundin",
 		"url": "http://www.hyperisland.com/people/mathilda-lundin",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3156,12 +3156,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Matilda Alvarado Thofelt",
 		"url": "http://www.hyperisland.com/people/matilda-alvarado-thofelt",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3169,12 +3169,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Mattias Johansson",
 		"url": "http://www.hyperisland.com/people/mattias-johansson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3182,12 +3182,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Natalie Carrasco",
 		"url": "http://www.hyperisland.com/people/natalie-carrasco",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3195,12 +3195,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Paulina Johansson",
 		"url": "http://www.hyperisland.com/people/paulina-johansson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3208,12 +3208,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Pruek Lawchaiyapruek",
 		"url": "http://www.hyperisland.com/people/pruek-lawchaiyapruek",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3221,12 +3221,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Rasmus Weber Pant",
 		"url": "http://www.hyperisland.com/people/rasmus-weber-pant",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3234,12 +3234,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Sander Sebton",
 		"url": "http://www.hyperisland.com/people/sander-sebton",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3247,12 +3247,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Sebastian Gustafsson",
 		"url": "http://www.hyperisland.com/people/sebastian-gustafsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3260,12 +3260,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Tatiana Denisova",
 		"url": "http://www.hyperisland.com/people/tatiana-denisova",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3273,12 +3273,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Ulrik Gotsche",
 		"url": "http://www.hyperisland.com/people/ulrik-gotsche",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3286,12 +3286,12 @@
 		"Location 2": "Buenos Aires, Argentina",
 		"Lat 2": "-34.6037232",
 		"Lon 2": "-58.3815931",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Vincent Looft",
 		"url": "http://www.hyperisland.com/people/vincent-looft",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3299,12 +3299,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Vitali Poluzhnikov",
 		"url": "http://www.hyperisland.com/people/vitali-poluzhnikov",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3312,12 +3312,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2014"
+		"year": "2014"
 	},
 	{
 		"name": "Andres Eriksson Cabrera",
 		"url": "http://www.hyperisland.com/people/andres-eriksson-cabrera",
-		"course": "eCommerce Business",
+		"program": "eCommerce Business",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3325,12 +3325,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Christopher Olsson",
 		"url": "http://www.hyperisland.com/people/christopher-olsson",
-		"course": "",
+		"program": "",
 		"role": "student",
 		"Location 1": "",
 		"Lat 1": "",
@@ -3338,12 +3338,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Daniel Rosquist",
 		"url": "http://www.hyperisland.com/people/daniel-rosquist",
-		"course": "",
+		"program": "",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3351,12 +3351,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Erik Perman",
 		"url": "http://www.hyperisland.com/people/erik-perman",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3364,12 +3364,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Hakan Tas",
 		"url": "http://www.hyperisland.com/people/hakan-tas",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3377,12 +3377,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Havard Seljevold Methi",
 		"url": "http://www.hyperisland.com/people/havard-seljevold-methi",
-		"course": "Mobile Design & Development",
+		"program": "Mobile Design & Development",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3390,12 +3390,12 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Henrik Lauste-Jurvin",
 		"url": "http://www.hyperisland.com/people/henrik-lauste-jurvin",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3403,12 +3403,12 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Jakub Burkot",
 		"url": "http://www.hyperisland.com/people/jakub-burkot",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3416,12 +3416,12 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Jesper Dahlqvist",
 		"url": "http://www.hyperisland.com/people/jesper-dahlqvist",
-		"course": "MA Digital Media Management",
+		"program": "MA Digital Media Management",
 		"role": "student",
 		"Location 1": "Manchester, United Kingdom",
 		"Lat 1": "53.479251",
@@ -3429,12 +3429,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Joakim Keussen",
 		"url": "http://www.hyperisland.com/people/joakim-keussen",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3442,12 +3442,12 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Johanna Magnusson",
 		"url": "http://www.hyperisland.com/people/johanna-magnusson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3455,12 +3455,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Mattias Blomberg",
 		"url": "http://www.hyperisland.com/people/mattias-blomberg",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3468,12 +3468,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Nahid Seidi",
 		"url": "http://www.hyperisland.com/people/nahid-seidi",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3481,12 +3481,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Nikola Subotic",
 		"url": "http://www.hyperisland.com/people/nikola-subotic",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3494,12 +3494,12 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Oskar Smith",
 		"url": "http://www.hyperisland.com/people/oskar-smith",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3507,12 +3507,12 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Peter Lofquist",
 		"url": "http://www.hyperisland.com/people/peter-lofquist",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3520,12 +3520,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Rikke Moller Koblauch",
 		"url": "http://www.hyperisland.com/people/rikke-moller-koblauch",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3533,12 +3533,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Robin Martin Nowicki",
 		"url": "http://www.hyperisland.com/people/robin-martin-nowicki",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
@@ -3546,12 +3546,12 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Sarper Erel",
 		"url": "http://www.hyperisland.com/people/sarper-erel",
-		"course": "Mobile applications",
+		"program": "Mobile applications",
 		"role": "coworker",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3559,12 +3559,12 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Soren Jepsen",
 		"url": "http://www.hyperisland.com/people/soren-jepsen",
-		"course": "Learning Designer & Facilitator",
+		"program": "Learning Designer & Facilitator",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3572,12 +3572,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Tobias Persson",
 		"url": "http://www.hyperisland.com/people/tobias-persson",
-		"course": "MA Digital Media Management",
+		"program": "MA Digital Media Management",
 		"role": "student",
 		"Location 1": "Manchester, United Kingdom",
 		"Lat 1": "53.479251",
@@ -3585,12 +3585,12 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Wai Shun Yeong",
 		"url": "http://www.hyperisland.com/people/wai-shun-yeong",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3598,12 +3598,12 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Willy Simonsson",
 		"url": "http://www.hyperisland.com/people/willy-simonsson",
-		"course": "Digital Media",
+		"program": "Digital Media",
 		"role": "student",
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
@@ -3611,6 +3611,6 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": ""
+		"year": ""
 	}
 ]

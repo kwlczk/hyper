@@ -10,7 +10,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Adam Peerbaccus",
@@ -23,7 +23,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Adrian Berggren",
@@ -36,7 +36,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Ahmed Atef Shaker",
@@ -49,7 +49,7 @@
 		"Location 2": "Cologne, Germany",
 		"Lat 2": "50.937531",
 		"Lon 2": "6.9602786",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Aksel Dybdal",
@@ -62,7 +62,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alasdair Cumming",
@@ -75,7 +75,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alex Ferrer",
@@ -88,7 +88,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alexander Auld",
@@ -101,7 +101,7 @@
 		"Location 2": "Uppsala, Sweden",
 		"Lat 2": "59.8585638",
 		"Lon 2": "17.6389267",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alexander Bergstrom",
@@ -114,7 +114,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alexander Johansson",
@@ -127,7 +127,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alexander Koste",
@@ -140,7 +140,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Alexander MacLeod",
@@ -153,7 +153,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alexander Strand Kristensen",
@@ -166,7 +166,7 @@
 		"Location 2": "Brooklyn, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Alexandra Horneij",
@@ -179,7 +179,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alexandra Liljebladh",
@@ -192,7 +192,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Alexandra Sundqvist",
@@ -205,7 +205,7 @@
 		"Location 2": "Brisbane, Australia",
 		"Lat 2": "-27.3826428",
 		"Lon 2": "153.1708123",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Alfred Nerstu",
@@ -218,7 +218,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Alvaro Ojeda Moreno",
@@ -231,7 +231,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Ana Cecilia Boman Santos",
@@ -244,7 +244,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anders naero Tangen",
@@ -257,7 +257,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Anders Teigene",
@@ -270,7 +270,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anders Torselius",
@@ -283,7 +283,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Anders Wiberg",
@@ -296,7 +296,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2000"
+		"year": "2000"
 	},
 	{
 		"name": "Andre Karlsson",
@@ -309,7 +309,7 @@
 		"Location 2": "Sydney, Australia",
 		"Lat 2": "-33.873651",
 		"Lon 2": "151.2068896",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Andre Tingberg",
@@ -322,7 +322,7 @@
 		"Location 2": "Paris, France",
 		"Lat 2": "48.8695131",
 		"Lon 2": "2.3053202",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Andreas Bonell",
@@ -335,7 +335,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Andreas Engstrom",
@@ -348,7 +348,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Andreas Johansson",
@@ -361,7 +361,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Andreas Johansson",
@@ -374,7 +374,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Andreas Kleiner",
@@ -387,7 +387,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Andreas Larsson",
@@ -400,7 +400,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": ""
+		"year": ""
 	},
 	{
 		"name": "Andreas Palmeren",
@@ -413,7 +413,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Andreas Runsten",
@@ -426,7 +426,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Andreas Wahlqvist",
@@ -439,7 +439,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Andreas Widman",
@@ -452,7 +452,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Andrew Olsson",
@@ -465,7 +465,7 @@
 		"Location 2": "Katrineholm, Sweden",
 		"Lat 2": "58.9955511",
 		"Lon 2": "16.2054756",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Ane Skov Vithner",
@@ -478,7 +478,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anetka Zakrzewska",
@@ -491,7 +491,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anke Buchta",
@@ -504,7 +504,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Anna Bostrom",
@@ -517,7 +517,7 @@
 		"Location 2": "Hamburg, Germany",
 		"Lat 2": "53.5510846",
 		"Lon 2": "9.9936818",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anna Felicia Valdes",
@@ -530,7 +530,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anna Maria Larsson",
@@ -543,7 +543,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Anne Hellman Vold",
@@ -556,7 +556,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Annie Gothesson",
@@ -569,7 +569,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Annie Livchitz",
@@ -582,7 +582,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Antoine Schirer",
@@ -595,7 +595,7 @@
 		"Location 2": "Brooklyn, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anton Bohlin",
@@ -608,7 +608,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anton Boman",
@@ -621,7 +621,7 @@
 		"Location 2": "Toronto, Canada",
 		"Lat 2": "43.653226",
 		"Lon 2": "-79.3831843",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Anton Dubina",
@@ -634,7 +634,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Anton Hakanson",
@@ -647,7 +647,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anton Noren",
@@ -660,7 +660,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anton Sirianni",
@@ -673,7 +673,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Anton Sten",
@@ -686,7 +686,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2002"
+		"year": "2002"
 	},
 	{
 		"name": "Antonio Ceballos",
@@ -699,7 +699,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Arthur Soukka",
@@ -712,7 +712,7 @@
 		"Location 2": "Norrkoping, Sweden",
 		"Lat 2": "58.587745",
 		"Lon 2": "16.192421",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Arvid Johansson",
@@ -725,7 +725,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Asa Kasselring",
@@ -738,7 +738,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "1998"
+		"year": "1998"
 	},
 	{
 		"name": "Audrey Akriche",
@@ -751,7 +751,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Bahram Hosseinpour",
@@ -764,7 +764,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Bas van Helvoort",
@@ -777,7 +777,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Ben Lynch",
@@ -790,7 +790,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Berglind Hauksdottir",
@@ -803,7 +803,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Bernhard Kahles",
@@ -816,7 +816,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Billy Moren",
@@ -829,7 +829,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Bjorn Kusa",
@@ -842,7 +842,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Boris Soderlind",
@@ -855,7 +855,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Brian Lee",
@@ -868,7 +868,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Camilla Rosen",
@@ -881,7 +881,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Carl Berglind",
@@ -894,7 +894,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Carl Bergman",
@@ -907,7 +907,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Carl Johan Thor",
@@ -920,7 +920,7 @@
 		"Location 2": "Los Angeles, United States",
 		"Lat 2": "34.0522342",
 		"Lon 2": "-118.2436849",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Carl Mcelwee",
@@ -933,7 +933,7 @@
 		"Location 2": "Uppsala, Sweden",
 		"Lat 2": "59.8585638",
 		"Lon 2": "17.6389267",
-		"Graduation year": "2000"
+		"year": "2000"
 	},
 	{
 		"name": "Carl Nordell",
@@ -946,7 +946,7 @@
 		"Location 2": "Halmstad, Sweden",
 		"Lat 2": "56.6743748",
 		"Lon 2": "12.8577884",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Carl Nyman",
@@ -959,7 +959,7 @@
 		"Location 2": "Beijing, China",
 		"Lat 2": "39.90403",
 		"Lon 2": "116.407526",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Carl Unnerman",
@@ -972,7 +972,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Carl-Anders Svedberg",
@@ -985,7 +985,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2002"
+		"year": "2002"
 	},
 	{
 		"name": "Carmen Angelillo",
@@ -998,7 +998,7 @@
 		"Location 2": "Buenos Aires, Argentina",
 		"Lat 2": "-34.6037232",
 		"Lon 2": "-58.3815931",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Carolin Sellman",
@@ -1011,7 +1011,7 @@
 		"Location 2": "Norrkoping, Sweden",
 		"Lat 2": "58.587745",
 		"Lon 2": "16.192421",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Caroline Seimertz",
@@ -1024,7 +1024,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Caroline Soderquist",
@@ -1037,7 +1037,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Cas Lemmens",
@@ -1050,7 +1050,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Cecilie Lund Madsen",
@@ -1063,7 +1063,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Cecilie Wold",
@@ -1076,7 +1076,7 @@
 		"Location 2": "Frankfurt, Germany",
 		"Lat 2": "50.1109221",
 		"Lon 2": "8.6821267",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Charlie Montagut",
@@ -1089,7 +1089,7 @@
 		"Location 2": "Brooklyn, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Charlon de Graav",
@@ -1102,7 +1102,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Charlotte Bakken",
@@ -1115,7 +1115,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Chris Hall",
@@ -1128,7 +1128,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Chris Lind",
@@ -1141,7 +1141,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Christian Lampa",
@@ -1154,7 +1154,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Christian Mezofi",
@@ -1167,7 +1167,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2004"
+		"year": "2004"
 	},
 	{
 		"name": "Christoffer Erneholm",
@@ -1180,7 +1180,7 @@
 		"Location 2": "Helsingborg, Sweden",
 		"Lat 2": "56.0464674",
 		"Lon 2": "12.6945121",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Christoffer Hallkvist",
@@ -1193,7 +1193,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Christoffer Hedberg",
@@ -1206,7 +1206,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Christoffer Lorang Dahl",
@@ -1219,7 +1219,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Christopher Nilsson",
@@ -1232,7 +1232,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Claudio Salas",
@@ -1245,7 +1245,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Daniel Dominguez",
@@ -1258,7 +1258,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Daniel Grocock",
@@ -1271,7 +1271,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Daniel Johansson",
@@ -1284,7 +1284,7 @@
 		"Location 2": "Sydney, Australia",
 		"Lat 2": "-33.873651",
 		"Lon 2": "151.2068896",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Daniel Lauding",
@@ -1297,7 +1297,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Daniel Marienthal",
@@ -1310,7 +1310,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Daniel Piquer",
@@ -1323,7 +1323,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Daniel Piquer",
@@ -1336,7 +1336,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Daniela Roessler",
@@ -1349,7 +1349,7 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Darcie Graham",
@@ -1362,7 +1362,7 @@
 		"Location 2": "Belfast, Ireland",
 		"Lat 2": "54.5974433",
 		"Lon 2": "-5.9340683",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "David Nordlundh",
@@ -1375,7 +1375,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "David Schagerstrom",
@@ -1388,7 +1388,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "David Sebela",
@@ -1401,7 +1401,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Dennis Gustafsson",
@@ -1414,7 +1414,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Desmond Arsan",
@@ -1427,7 +1427,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Edda Detter",
@@ -1440,7 +1440,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Edvard Khondkaryan",
@@ -1453,7 +1453,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Efeoghene Agadagba",
@@ -1466,7 +1466,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Elin Aram",
@@ -1479,7 +1479,7 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Elin Nystrom",
@@ -1492,7 +1492,7 @@
 		"Location 2": "Visby, Sweden",
 		"Lat 2": "57.6348",
 		"Lon 2": "18.29484",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Elsa Wiliow",
@@ -1505,7 +1505,7 @@
 		"Location 2": "Borlange, Sweden",
 		"Lat 2": "60.484304",
 		"Lon 2": "15.433969",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Elvis Tanyi",
@@ -1518,7 +1518,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Emelie Jinhee Jonsson",
@@ -1531,7 +1531,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Emil Axelsson",
@@ -1544,7 +1544,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Emil Bjornum",
@@ -1557,7 +1557,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Emil Hagbo",
@@ -1570,7 +1570,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Emil Karlsson",
@@ -1583,7 +1583,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Emilia Astrom",
@@ -1596,7 +1596,7 @@
 		"Location 2": "Buenos Aires, Argentina",
 		"Lat 2": "-34.6037232",
 		"Lon 2": "-58.3815931",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Emily Longfield",
@@ -1609,7 +1609,7 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Emma Lovbrand",
@@ -1622,7 +1622,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Emukule Ekirapa",
@@ -1635,7 +1635,7 @@
 		"Location 2": "Nairobi, Kenya",
 		"Lat 2": "-1.2920659",
 		"Lon 2": "36.8219462",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Eric Ljunglof",
@@ -1648,7 +1648,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Eric Nordstrom",
@@ -1661,7 +1661,7 @@
 		"Location 2": "Sydney, Australia",
 		"Lat 2": "-33.873651",
 		"Lon 2": "151.2068896",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Erik Forenius",
@@ -1674,7 +1674,7 @@
 		"Location 2": "Vasteras, Sweden",
 		"Lat 2": "59.6099005",
 		"Lon 2": "16.5448091",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Erik Herrstrom",
@@ -1687,7 +1687,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Erik Hjort af Ornas",
@@ -1700,7 +1700,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Erik Johansson",
@@ -1713,7 +1713,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Erik Johansson",
@@ -1726,7 +1726,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Erik Jonsson",
@@ -1739,7 +1739,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Erik Lindebratt",
@@ -1752,7 +1752,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Erik Rodin",
@@ -1765,7 +1765,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Erik Sigblad",
@@ -1778,7 +1778,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Erika Mayer",
@@ -1791,7 +1791,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Eva Elling",
@@ -1804,7 +1804,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Eva Svensson",
@@ -1817,7 +1817,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Fabio Resende",
@@ -1830,7 +1830,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Fanny Nordmark",
@@ -1843,7 +1843,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Felipe Camara",
@@ -1856,7 +1856,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Fenja Heijkenskjold",
@@ -1869,7 +1869,7 @@
 		"Location 2": "Paris, France",
 		"Lat 2": "48.8695131",
 		"Lon 2": "2.3053202",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Fernanda Barbato",
@@ -1882,7 +1882,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Fernando Weno",
@@ -1895,7 +1895,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Filip Dalhamn",
@@ -1908,7 +1908,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Filip Johansson",
@@ -1921,7 +1921,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Filip Nordin",
@@ -1934,7 +1934,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Fredrik Bergman",
@@ -1947,7 +1947,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Fredrik Dogertz",
@@ -1960,7 +1960,7 @@
 		"Location 2": "Vaxjo, Sweden",
 		"Lat 2": "56.8790044",
 		"Lon 2": "14.8058522",
-		"Graduation year": "2001"
+		"year": "2001"
 	},
 	{
 		"name": "Fredrik Ekholm",
@@ -1973,7 +1973,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Fredrik Holmberg",
@@ -1986,7 +1986,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Fredrik Magnusson",
@@ -1999,7 +1999,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Fredrik Stenson",
@@ -2012,7 +2012,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Fredrik Stutterheim",
@@ -2025,7 +2025,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Fredrika Frenkiel",
@@ -2038,7 +2038,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Frida Ohrman",
@@ -2051,7 +2051,7 @@
 		"Location 2": "Eskilstuna, Sweden",
 		"Lat 2": "59.3712486",
 		"Lon 2": "16.5098045",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Gabriel Ardiles",
@@ -2064,7 +2064,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gabriella Eriksson",
@@ -2077,7 +2077,7 @@
 		"Location 2": "Linkoping, Sweden",
 		"Lat 2": "58.410807",
 		"Lon 2": "15.6213727",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gareth Lymer",
@@ -2090,7 +2090,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "George Hastings",
@@ -2103,7 +2103,7 @@
 		"Location 2": "Williamsburg, United States",
 		"Lat 2": "37.2739",
 		"Lon 2": "-76.7083",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "George King",
@@ -2116,7 +2116,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "George Kusila",
@@ -2129,7 +2129,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Georgios Athanassiadis",
@@ -2142,7 +2142,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Gian Carlo Belleza",
@@ -2155,7 +2155,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gion Tummers",
@@ -2168,7 +2168,7 @@
 		"Location 2": "Hamburg, Germany",
 		"Lat 2": "53.5510846",
 		"Lon 2": "9.9936818",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gro Larsson",
@@ -2181,7 +2181,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Guilherme Machiavelli",
@@ -2194,7 +2194,7 @@
 		"Location 2": "Milan, Italy",
 		"Lat 2": "45.463681",
 		"Lon 2": "9.1881714",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gustaf Engstrom",
@@ -2207,7 +2207,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Gustaf Eriksson",
@@ -2220,7 +2220,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Gustav Arnetz",
@@ -2233,7 +2233,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Gustav Asplund",
@@ -2246,7 +2246,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gustav Kinde",
@@ -2259,7 +2259,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gustav Schiring",
@@ -2272,7 +2272,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Gustavo Malucelli",
@@ -2285,7 +2285,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Hampus Hogberg",
@@ -2298,7 +2298,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Hampus Lemhag",
@@ -2311,7 +2311,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Hampus Nilsson",
@@ -2324,7 +2324,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Hampus Olsson",
@@ -2337,7 +2337,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Hanna Mejia",
@@ -2350,7 +2350,7 @@
 		"Location 2": "Denver, United States",
 		"Lat 2": "39.7392",
 		"Lon 2": "-104.9842",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Hannah Willen",
@@ -2363,7 +2363,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Hannes Elltorp",
@@ -2376,7 +2376,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Hans Waerner",
@@ -2389,7 +2389,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Heens-hencefordge Bruce",
@@ -2402,7 +2402,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Henrik Dahlqvist",
@@ -2415,7 +2415,7 @@
 		"Location 2": "Los Angeles, United States",
 		"Lat 2": "34.0596149",
 		"Lon 2": "-118.1122679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Henrik Edelbring",
@@ -2428,7 +2428,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Henrik Hoglund",
@@ -2441,7 +2441,7 @@
 		"Location 2": "Boras, Sweden",
 		"Lat 2": "57.721035",
 		"Lon 2": "12.939819",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Henrik Karlsson",
@@ -2454,7 +2454,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Henrik Porseland",
@@ -2467,7 +2467,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Henrik Wiberg",
@@ -2480,7 +2480,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Holly Langford",
@@ -2493,7 +2493,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Huang ChienChang",
@@ -2506,7 +2506,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Iain Phillips",
@@ -2519,7 +2519,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Ian Napier",
@@ -2532,7 +2532,7 @@
 		"Location 2": "Oxford, United Kingdom",
 		"Lat 2": "51.751724",
 		"Lon 2": "-1.255285",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Ida Ngo",
@@ -2545,7 +2545,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Imran Chohan",
@@ -2558,7 +2558,7 @@
 		"Location 2": "Ronneby, Sweden",
 		"Lat 2": "56.210434",
 		"Lon 2": "15.2760229",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Ina Ronning Johansen",
@@ -2571,7 +2571,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Ingvild Eide Lybeck",
@@ -2584,7 +2584,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Ireti Olowe",
@@ -2597,7 +2597,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Isabella Pipitone",
@@ -2610,7 +2610,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jacob Andersson",
@@ -2623,7 +2623,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jacob Hagg",
@@ -2636,7 +2636,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jacob Jansson",
@@ -2649,7 +2649,7 @@
 		"Location 2": "Los Angeles, United States",
 		"Lat 2": "34.0522342",
 		"Lon 2": "-118.2436849",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jade Borday",
@@ -2662,7 +2662,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Jaime Munoz",
@@ -2675,7 +2675,7 @@
 		"Location 2": "Munich, Germany",
 		"Lat 2": "48.1366069",
 		"Lon 2": "11.5770851",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jake Attree",
@@ -2688,7 +2688,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jakob Stenqvist",
@@ -2701,7 +2701,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "James Kirk",
@@ -2714,7 +2714,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "James McConnell",
@@ -2727,7 +2727,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jamil Khzam",
@@ -2740,7 +2740,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Jan Sommer",
@@ -2753,7 +2753,7 @@
 		"Location 2": "Zurich, Switzerland",
 		"Lat 2": "47.3686498",
 		"Lon 2": "8.5391825",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jean-David Walegren",
@@ -2766,7 +2766,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Jenny Hughes",
@@ -2779,7 +2779,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jenny Johannesson",
@@ -2792,7 +2792,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Jesper Broring",
@@ -2805,7 +2805,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jessika Walker",
@@ -2818,7 +2818,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Ji-Ho Park",
@@ -2831,7 +2831,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Joakim Larsson",
@@ -2844,7 +2844,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Joanna Hill",
@@ -2857,7 +2857,7 @@
 		"Location 2": "Glasgow, United Kingdom",
 		"Lat 2": "55.864237",
 		"Lon 2": "-4.251806",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jody Mitchell",
@@ -2870,7 +2870,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Joel Helin",
@@ -2883,7 +2883,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Joel Larsson",
@@ -2896,7 +2896,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Johan Branzell",
@@ -2909,7 +2909,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Johan Heikensten",
@@ -2922,7 +2922,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Johan Liden van Riessen",
@@ -2935,7 +2935,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Johan Lovblad",
@@ -2948,7 +2948,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Johan Sundblom",
@@ -2961,7 +2961,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Johan Tornkvist",
@@ -2974,7 +2974,7 @@
 		"Location 2": "Helsingborg, Sweden",
 		"Lat 2": "56.0464674",
 		"Lon 2": "12.6945121",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Johanna Thofelt",
@@ -2987,7 +2987,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Johanna Wignell",
@@ -3000,7 +3000,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Johannes Gustafsson",
@@ -3013,7 +3013,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Johannes Matson",
@@ -3026,7 +3026,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "John Gomez",
@@ -3039,7 +3039,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "John Karlsson",
@@ -3052,7 +3052,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "John Mattsson",
@@ -3065,7 +3065,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Jonas Eriksson",
@@ -3078,7 +3078,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Jonas Johansson",
@@ -3091,7 +3091,7 @@
 		"Location 2": "Montreal, Canada",
 		"Lat 2": "45.5086699",
 		"Lon 2": "-73.5539925",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Jonas Persson",
@@ -3104,7 +3104,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Jonatan Jonsson",
@@ -3117,7 +3117,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jonathan Barnes",
@@ -3130,7 +3130,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Jonathan Pettersson",
@@ -3143,7 +3143,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Jorge Brandao",
@@ -3156,7 +3156,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Josef Ross",
@@ -3169,7 +3169,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Josefin Bergman",
@@ -3182,7 +3182,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Josefin Hedman",
@@ -3195,7 +3195,7 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Josefine Frisenfelt",
@@ -3208,7 +3208,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Joy Ayles",
@@ -3221,7 +3221,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Joy-Ann Bouwmans",
@@ -3234,7 +3234,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Julia Schierbeck",
@@ -3247,7 +3247,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Julia Sebesteny",
@@ -3260,7 +3260,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Julie Raben-Levetzau",
@@ -3273,7 +3273,7 @@
 		"Location 2": "Hamburg, Germany",
 		"Lat 2": "53.5510846",
 		"Lon 2": "9.9936818",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Kamil Gottwald",
@@ -3286,7 +3286,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Karl Ringman",
@@ -3299,7 +3299,7 @@
 		"Location 2": "Venice, United States",
 		"Lat 2": "27.0994",
 		"Lon 2": "-82.4544",
-		"Graduation year": "2004"
+		"year": "2004"
 	},
 	{
 		"name": "Karl-Fredrik Linden",
@@ -3312,7 +3312,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Karolina Brantas",
@@ -3325,7 +3325,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Katarina Nilsson",
@@ -3338,7 +3338,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kate Hollywood",
@@ -3351,7 +3351,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Katrine Jo Madsen",
@@ -3364,7 +3364,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Katryna Jones",
@@ -3377,7 +3377,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Katy Jackson",
@@ -3390,7 +3390,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kelvin Agadagba",
@@ -3403,7 +3403,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kenneth Moore",
@@ -3416,7 +3416,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kevin Hamon",
@@ -3429,7 +3429,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kim Demane",
@@ -3442,7 +3442,7 @@
 		"Location 2": "Barcelona, Spain",
 		"Lat 2": "41.407377",
 		"Lon 2": "2.149511",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Kim Gelotte",
@@ -3455,7 +3455,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Kim Hartman",
@@ -3468,7 +3468,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kin Loong Lee",
@@ -3481,7 +3481,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Klara  Kjellberg",
@@ -3494,7 +3494,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Klara  Kviberg",
@@ -3507,7 +3507,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Klara Lindberg",
@@ -3520,7 +3520,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Koen Dirk van Esterik",
@@ -3533,7 +3533,7 @@
 		"Location 2": "Shanghai, China",
 		"Lat 2": "31.230393",
 		"Lon 2": "121.473704",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kristina Herngren",
@@ -3546,7 +3546,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Kristofer Johansson",
@@ -3559,7 +3559,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Kristoffer Ekman",
@@ -3572,7 +3572,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Kristoffer Westerholm",
@@ -3585,7 +3585,7 @@
 		"Location 2": "Visby, Sweden",
 		"Lat 2": "57.6348",
 		"Lon 2": "18.29484",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lasse Korsgaard",
@@ -3598,7 +3598,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Laura Pedroni",
@@ -3611,7 +3611,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lauren Ivory",
@@ -3624,7 +3624,7 @@
 		"Location 2": "Seattle, United States",
 		"Lat 2": "47.6062095",
 		"Lon 2": "-122.3320708",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Leonardo Senra",
@@ -3637,7 +3637,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lia Bekyan",
@@ -3650,7 +3650,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lill Waldekranz",
@@ -3663,7 +3663,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lilly Hunter",
@@ -3676,7 +3676,7 @@
 		"Location 2": "Edinburgh, Scotland",
 		"Lat 2": "55.953252",
 		"Lon 2": "-3.188267",
-		"Graduation year": "1998"
+		"year": "1998"
 	},
 	{
 		"name": "Lina Eriksson",
@@ -3689,7 +3689,7 @@
 		"Location 2": "Visby, Sweden",
 		"Lat 2": "57.6348",
 		"Lon 2": "18.29484",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lina Safstrom",
@@ -3702,7 +3702,7 @@
 		"Location 2": "Abu Dhabi, United Arab Emirates",
 		"Lat 2": "23.424076",
 		"Lon 2": "53.847818",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Linda Karlsson",
@@ -3715,7 +3715,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Linda Sandvik",
@@ -3728,7 +3728,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Linus Eriksson",
@@ -3741,7 +3741,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Linus Lindgren",
@@ -3754,7 +3754,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Linus Lundin",
@@ -3767,7 +3767,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Lisa Hoffmann",
@@ -3780,7 +3780,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Lizette Rydberg",
@@ -3793,7 +3793,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lovisa Hellstrom",
@@ -3806,7 +3806,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Lucas Cancado Fiuza Lima",
@@ -3819,7 +3819,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Luis Marques",
@@ -3832,7 +3832,7 @@
 		"Location 2": "Boulder, United States",
 		"Lat 2": "40.0149856",
 		"Lon 2": "-105.2705456",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Madeleine Matsson",
@@ -3845,7 +3845,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Madonna Arsan",
@@ -3858,7 +3858,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Magdalena Piechal",
@@ -3871,7 +3871,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Magnus Dahlstrand",
@@ -3884,7 +3884,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Magnus Lenneskog",
@@ -3897,7 +3897,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Magnus Lowing",
@@ -3910,7 +3910,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2004"
+		"year": "2004"
 	},
 	{
 		"name": "Magnus Martinsen",
@@ -3923,7 +3923,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Mahima Puri",
@@ -3936,7 +3936,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Malin Lindvall",
@@ -3949,7 +3949,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Marc Martinez Garcia",
@@ -3962,7 +3962,7 @@
 		"Location 2": "Barcelona, Spain",
 		"Lat 2": "41.407377",
 		"Lon 2": "2.149511",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Marco Lemcke",
@@ -3975,7 +3975,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Marcus Andersson",
@@ -3988,7 +3988,7 @@
 		"Location 2": "Marbella, Spain",
 		"Lat 2": "36.5099367",
 		"Lon 2": "-4.8863523",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Marcus Szabo",
@@ -4001,7 +4001,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Marcus Wallander",
@@ -4014,7 +4014,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Mari Bergstrom",
@@ -4027,7 +4027,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Maria Maleh",
@@ -4040,7 +4040,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Maria Mayor",
@@ -4053,7 +4053,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Marie Lundgren",
@@ -4066,7 +4066,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Markus Jonsson",
@@ -4079,7 +4079,7 @@
 		"Location 2": "Helsinki, Finland",
 		"Lat 2": "60.169845",
 		"Lon 2": "24.9385508",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Markus Nogueira Rosen",
@@ -4092,7 +4092,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Markus Rosen",
@@ -4105,7 +4105,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Marlene Broman",
@@ -4118,7 +4118,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Marte Breivik",
@@ -4131,7 +4131,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Marthine Haugen Petersen",
@@ -4144,7 +4144,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Martin B. Aggerholm",
@@ -4157,7 +4157,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Martin Bergen",
@@ -4170,7 +4170,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Martin Klausen",
@@ -4183,7 +4183,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2007"
+		"year": "2007"
 	},
 	{
 		"name": "Martin Lindstrom",
@@ -4196,7 +4196,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Martin Petersson",
@@ -4209,7 +4209,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Martin Ruben",
@@ -4222,7 +4222,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Matilda Dackevall",
@@ -4235,7 +4235,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Matilda Lindblom",
@@ -4248,7 +4248,7 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Mats Nyman",
@@ -4261,7 +4261,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Mats Olsberg",
@@ -4274,7 +4274,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2004"
+		"year": "2004"
 	},
 	{
 		"name": "Matteo Mei",
@@ -4287,7 +4287,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Matti Kemppainen",
@@ -4300,7 +4300,7 @@
 		"Location 2": "Helsinki, Finland",
 		"Lat 2": "60.169845",
 		"Lon 2": "24.9385508",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Matti Molin",
@@ -4313,7 +4313,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2001"
+		"year": "2001"
 	},
 	{
 		"name": "Mattias Breitholtz",
@@ -4326,7 +4326,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Mattis Forsman",
@@ -4339,7 +4339,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Matts Sjoberg",
@@ -4352,7 +4352,7 @@
 		"Location 2": "Sydney, Australia",
 		"Lat 2": "-33.873651",
 		"Lon 2": "151.2068896",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Max Hammarberg",
@@ -4365,7 +4365,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Maximilian Engelhart",
@@ -4378,7 +4378,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Mee Wannman",
@@ -4391,7 +4391,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "meli Hansson",
@@ -4404,7 +4404,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Michael Hahn",
@@ -4417,7 +4417,7 @@
 		"Location 2": "Brooklyn, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Michael Lindskog",
@@ -4430,7 +4430,7 @@
 		"Location 2": "Linkoping, Sweden",
 		"Lat 2": "58.410807",
 		"Lon 2": "15.6213727",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Mikael Lindahl",
@@ -4443,7 +4443,7 @@
 		"Location 2": "Porto Alegre, Brazil",
 		"Lat 2": "-30.0277041",
 		"Lon 2": "-51.2287346",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Mikael Rinstad",
@@ -4456,7 +4456,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Mitchell Pearce",
@@ -4469,7 +4469,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Moa Alneskog",
@@ -4482,7 +4482,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Nathan Ross",
@@ -4495,7 +4495,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Nicklas Hogberg",
@@ -4508,7 +4508,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Niclas Gelin",
@@ -4521,7 +4521,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Nicola Antonazzo",
@@ -4534,7 +4534,7 @@
 		"Location 2": "Milan, Italy",
 		"Lat 2": "45.463681",
 		"Lon 2": "9.1881714",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Nicolas Antoniades",
@@ -4547,7 +4547,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Nicolas Moyano",
@@ -4560,7 +4560,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Nidia Dias",
@@ -4573,7 +4573,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Niklas Andersson",
@@ -4586,7 +4586,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Niklas Baversten",
@@ -4599,7 +4599,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Nina Amjadi",
@@ -4612,7 +4612,7 @@
 		"Location 2": "Brooklyn, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Ola Moller",
@@ -4625,7 +4625,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Olga Viktorovna",
@@ -4638,7 +4638,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Olle Larsson",
@@ -4651,7 +4651,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Olof Storm",
@@ -4664,7 +4664,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Omid Massali",
@@ -4677,7 +4677,7 @@
 		"Location 2": "Cologne, Germany",
 		"Lat 2": "50.937531",
 		"Lon 2": "6.9602786",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Oscar Asmoarp",
@@ -4690,7 +4690,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2004"
+		"year": "2004"
 	},
 	{
 		"name": "Oscar Hoglund",
@@ -4703,7 +4703,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Oskar Grasman",
@@ -4716,7 +4716,7 @@
 		"Location 2": "Sliema, Malta",
 		"Lat 2": "35.911857",
 		"Lon 2": "14.50107",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Oskar Lundkvist",
@@ -4729,7 +4729,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Otto Nassar",
@@ -4742,7 +4742,7 @@
 		"Location 2": "Copenhagen, Denmark",
 		"Lat 2": "55.6760968",
 		"Lon 2": "12.5683371",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Pablo Maximiliano Carrasco Dominguez",
@@ -4755,7 +4755,7 @@
 		"Location 2": "",
 		"Lat 2": "",
 		"Lon 2": "",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Patric Franz",
@@ -4768,7 +4768,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Patricia Varella",
@@ -4781,7 +4781,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Patrik Lythell",
@@ -4794,7 +4794,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Pauline Sall",
@@ -4807,7 +4807,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Paulo Yanaguizawa",
@@ -4820,7 +4820,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Pebbles Lim",
@@ -4833,7 +4833,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Pelle Kjellqvist",
@@ -4846,7 +4846,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Per Englund",
@@ -4859,7 +4859,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Per Eriksson",
@@ -4872,7 +4872,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Per Snare",
@@ -4885,7 +4885,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Pernille Halvorsen",
@@ -4898,7 +4898,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Peter Antonius",
@@ -4911,7 +4911,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Peter Hagander",
@@ -4924,7 +4924,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Petter Andersson",
@@ -4937,7 +4937,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Philip Clevberger",
@@ -4950,7 +4950,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2005"
+		"year": "2005"
 	},
 	{
 		"name": "Philip Meander",
@@ -4963,7 +4963,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Philipp Gullberg",
@@ -4976,7 +4976,7 @@
 		"Location 2": "Brisbane, Australia",
 		"Lat 2": "-27.3826428",
 		"Lon 2": "153.1708123",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Pier Madonia",
@@ -4989,7 +4989,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Priscila Cortat",
@@ -5002,7 +5002,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Priya Ghai",
@@ -5015,7 +5015,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Rasmus Bjurstrom",
@@ -5028,7 +5028,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Rasmus Knutsson",
@@ -5041,7 +5041,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Rasmus Ottesen Stride",
@@ -5054,7 +5054,7 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Rasmus Stenbergh",
@@ -5067,7 +5067,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Raymo Ventura",
@@ -5080,7 +5080,7 @@
 		"Location 2": "Philadelphia, United States",
 		"Lat 2": "39.952335",
 		"Lon 2": "-75.163789",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Rebecca Einarsson",
@@ -5093,7 +5093,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Reidun Solvik",
@@ -5106,7 +5106,7 @@
 		"Location 2": "Montreal, Canada",
 		"Lat 2": "45.5086699",
 		"Lon 2": "-73.5539925",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Richard Herries",
@@ -5119,7 +5119,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Richard Ingemann",
@@ -5132,7 +5132,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Richard Trovatten",
@@ -5145,7 +5145,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Rickard Hedberg",
@@ -5158,7 +5158,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Rikard Georgii",
@@ -5171,7 +5171,7 @@
 		"Location 2": "Tokyo, Japan",
 		"Lat 2": "35.6894875",
 		"Lon 2": "139.6917064",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Rikard Lindberg",
@@ -5184,7 +5184,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Robert Bjurshagen",
@@ -5197,7 +5197,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Robert Skold",
@@ -5210,7 +5210,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Robert Wallis",
@@ -5223,7 +5223,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Robin Jakobsson",
@@ -5236,7 +5236,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Robin Lantz",
@@ -5249,7 +5249,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Roger Olden",
@@ -5262,7 +5262,7 @@
 		"Location 2": "Malmoe, Sweden",
 		"Lat 2": "55.604981",
 		"Lon 2": "13.003822",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Roy van Dijk",
@@ -5275,7 +5275,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Rudraigh McGrath",
@@ -5288,7 +5288,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Ryan Pittman",
@@ -5301,7 +5301,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sam Englund",
@@ -5314,7 +5314,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sam Hellerstrom",
@@ -5327,7 +5327,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Samuel Hedberg",
@@ -5340,7 +5340,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sander Kuypers",
@@ -5353,7 +5353,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Sandra Svensson",
@@ -5366,7 +5366,7 @@
 		"Location 2": "Gothenburg, Sweden",
 		"Lat 2": "57.70887",
 		"Lon 2": "11.97456",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Santiago Ramos",
@@ -5379,7 +5379,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sara Ekholm",
@@ -5392,7 +5392,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sara Silfverberg",
@@ -5405,7 +5405,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Sara-Lee Rost",
@@ -5418,7 +5418,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Sarah Buggle",
@@ -5431,7 +5431,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Satya  Dalal",
@@ -5444,7 +5444,7 @@
 		"Location 2": "Singapore, Singapore",
 		"Lat 2": "1.352083",
 		"Lon 2": "103.819836",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sean Jamshidi",
@@ -5457,7 +5457,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Sebastian Hallqvist",
@@ -5470,7 +5470,7 @@
 		"Location 2": "Brooklyn, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sebastian Leinehed",
@@ -5483,7 +5483,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Sebastian Ramn",
@@ -5496,7 +5496,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Sebastian Sjoberg",
@@ -5509,7 +5509,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Septiawan Nanda Putra",
@@ -5522,7 +5522,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Seth Benson",
@@ -5535,7 +5535,7 @@
 		"Location 2": "San Francisco, United States",
 		"Lat 2": "37.7749295",
 		"Lon 2": "-122.4194155",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Shaghayegh Khomjani",
@@ -5548,7 +5548,7 @@
 		"Location 2": "Karlskrona, Sweden",
 		"Lat 2": "56.161224",
 		"Lon 2": "15.5869",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sid Volter",
@@ -5561,7 +5561,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Silje Lian",
@@ -5574,7 +5574,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Simon Ghebressilasie",
@@ -5587,7 +5587,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Simon Granath",
@@ -5600,7 +5600,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Simon Holmedal",
@@ -5613,7 +5613,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Simon van Acht",
@@ -5626,7 +5626,7 @@
 		"Location 2": "Breda, Netherlands",
 		"Lat 2": "51.58307",
 		"Lon 2": "4.7769505",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Sophie Simmons",
@@ -5639,7 +5639,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Stefan Leijon",
@@ -5652,7 +5652,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Steinar Juliusson",
@@ -5665,7 +5665,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Stephen Kavanagh",
@@ -5678,7 +5678,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Stina Norgren",
@@ -5691,7 +5691,7 @@
 		"Location 2": "Oslo, Norway",
 		"Lat 2": "59.9138688",
 		"Lon 2": "10.7522454",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "Suzette Hattingh",
@@ -5704,7 +5704,7 @@
 		"Location 2": "Upplands Vasby, Sweden",
 		"Lat 2": "59.51961",
 		"Lon 2": "17.92834",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Sveinung Skaalnes",
@@ -5717,7 +5717,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Svetozar Milicevic",
@@ -5730,7 +5730,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Theo Strahlen",
@@ -5743,7 +5743,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Thom Huxtable",
@@ -5756,7 +5756,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Thomas Clegg",
@@ -5769,7 +5769,7 @@
 		"Location 2": "Manchester, United Kingdom",
 		"Lat 2": "53.479251",
 		"Lon 2": "-2.247926",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Thomas Johanssen",
@@ -5782,7 +5782,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Thomas Larsson",
@@ -5795,7 +5795,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2006"
+		"year": "2006"
 	},
 	{
 		"name": "Thorarinn Johannsson",
@@ -5808,7 +5808,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Tilde Mattsson",
@@ -5821,7 +5821,7 @@
 		"Location 2": "Uppsala, Sweden",
 		"Lat 2": "59.8585638",
 		"Lon 2": "17.6389267",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Tim Steenberg",
@@ -5834,7 +5834,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Tobias Bergdahl",
@@ -5847,7 +5847,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Tobias Fink",
@@ -5860,7 +5860,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Tobias Nilsson",
@@ -5873,7 +5873,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Tomas Maldonis",
@@ -5886,7 +5886,7 @@
 		"Location 2": "Boras, Sweden",
 		"Lat 2": "57.721035",
 		"Lon 2": "12.939819",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Tova Wellton",
@@ -5899,7 +5899,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Tove Svensson",
@@ -5912,7 +5912,7 @@
 		"Location 2": "London, United Kingdom",
 		"Lat 2": "51.5073346",
 		"Lon 2": "-0.1276831",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Tre Wee",
@@ -5925,7 +5925,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Vanessa Jonasson",
@@ -5938,7 +5938,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Veronica Wallstrom",
@@ -5951,7 +5951,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Vesa Riste",
@@ -5964,7 +5964,7 @@
 		"Location 2": "Helsinki, Finland",
 		"Lat 2": "60.169845",
 		"Lon 2": "24.9385508",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Victor Eide",
@@ -5977,7 +5977,7 @@
 		"Location 2": "Karlstad, Sweden",
 		"Lat 2": "59.3791363",
 		"Lon 2": "13.5008041",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Victor Mark",
@@ -5990,7 +5990,7 @@
 		"Location 2": "Berlin, Germany",
 		"Lat 2": "52.519171",
 		"Lon 2": "13.4060912",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Victor Roa",
@@ -6003,7 +6003,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Vidar Daniels",
@@ -6016,7 +6016,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Vitor Godinho",
@@ -6029,7 +6029,7 @@
 		"Location 2": "Lisbon, Portugal",
 		"Lat 2": "39.2541578",
 		"Lon 2": "-9.3289169",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Waldemar Wegelin",
@@ -6042,7 +6042,7 @@
 		"Location 2": "Boulder, United States",
 		"Lat 2": "40.0149856",
 		"Lon 2": "-105.2705456",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Warren Teo",
@@ -6055,7 +6055,7 @@
 		"Location 2": "New York, United States",
 		"Lat 2": "40.7064461",
 		"Lon 2": "-73.9536163",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Wiktor Persson",
@@ -6068,7 +6068,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2008"
+		"year": "2008"
 	},
 	{
 		"name": "William Hollowell",
@@ -6081,7 +6081,7 @@
 		"Location 2": "Karlstad, Sweden",
 		"Lat 2": "59.3791363",
 		"Lon 2": "13.5008041",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Xavier Cusso Grau",
@@ -6094,7 +6094,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2010"
+		"year": "2010"
 	},
 	{
 		"name": "Xue Mei Rhodin",
@@ -6107,7 +6107,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Yiannis Lapatas",
@@ -6120,7 +6120,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2011"
+		"year": "2011"
 	},
 	{
 		"name": "Ying-Hua Yang",
@@ -6133,7 +6133,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Yvonne Lu",
@@ -6146,7 +6146,7 @@
 		"Location 2": "Amsterdam, Netherlands",
 		"Lat 2": "52.3702157",
 		"Lon 2": "4.8951679",
-		"Graduation year": "2009"
+		"year": "2009"
 	},
 	{
 		"name": "Zackarias Muller",
@@ -6159,7 +6159,7 @@
 		"Location 2": "Stockholm, Sweden",
 		"Lat 2": "59.32893",
 		"Lon 2": "18.06491",
-		"Graduation year": "2012"
+		"year": "2012"
 	},
 	{
 		"name": "Zebastian Zattberg",
@@ -6172,6 +6172,6 @@
 		"Location 2": "Boras, Sweden",
 		"Lat 2": "57.721035",
 		"Lon 2": "12.939819",
-		"Graduation year": "2012"
+		"year": "2012"
 	}
 ]

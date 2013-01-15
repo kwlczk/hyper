@@ -1489,9 +1489,9 @@
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
 		"Lon 1": "18.06491",
-		"Location 2": "",
-		"Lat 2": "",
-		"Lon 2": "",
+		"Location 2": "Stockholm, Sweden",
+		"Lat 2": "59.32893",
+		"Lon 2": "18.06491",
 		"year": "2013"
 	},
 	{
@@ -2373,9 +2373,9 @@
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
 		"Lon 1": "18.06491",
-		"Location 2": "",
-		"Lat 2": "",
-		"Lon 2": "",
+		"Location 2": "Stockholm, Sweden",
+		"Lat 2": "59.32893",
+		"Lon 2": "18.06491",
 		"year": "2013"
 	},
 	{
@@ -2477,9 +2477,9 @@
 		"Location 1": "Stockholm, Sweden",
 		"Lat 1": "59.32893",
 		"Lon 1": "18.06491",
-		"Location 2": "",
-		"Lat 2": "",
-		"Lon 2": "",
+		"Location 2": "Stockholm, Sweden",
+		"Lat 2": "59.32893",
+		"Lon 2": "18.06491",
 		"year": "2013"
 	},
 	{
@@ -3608,9 +3608,9 @@
 		"Location 1": "Karlskrona, Sweden",
 		"Lat 1": "56.161224",
 		"Lon 1": "15.5869",
-		"Location 2": "",
-		"Lat 2": "",
-		"Lon 2": "",
+		"Location 2": "Stockholm, Sweden",
+		"Lat 2": "59.32893",
+		"Lon 2": "18.06491",
 		"year": ""
 	}
 ]

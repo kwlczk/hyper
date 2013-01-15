@@ -62,7 +62,7 @@ body.no-webgl div.fallback {
 div.tooltip {
   position: absolute;
   color: black;
-  padding: 5px;
+  padding: 0px;
   background-color: #fff;
   border: 1px solid #555;
   /*

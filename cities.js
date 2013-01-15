@@ -37,7 +37,7 @@ function createCitiesLayer(cities) {
         uy = cosPhi,
         uz = sinTheta * sinPhi,
         coords = [ux, uy, uz],
-        r =300,
+        r =0,
         g = ((index / 256) >> 0) % 256,
         b = index % 256,
         sphere = new O3D.Sphere({

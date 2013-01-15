@@ -144,9 +144,11 @@ function loadData() {
 function loadPeople(type) {
   HypsterList.append('<li id="filter-' + type.replace(" ", "-") + '"></li>' );
   var color = data.colors[type] = hypsterMgr.generateColor();
+  var filename = type.toLowerCase().replace(" ", "_");
+
   //Request Hypster data
   new IO.XHR({
-    url: 'data/' + type + '.json',
+    url: 'data/' + filename + '.json',
     onSuccess: function(json) {
       var json = JSON.parse(json),
         categories = {},

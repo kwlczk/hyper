@@ -155,11 +155,6 @@ function loadPeople(type) {
           category = type + "::" + person.program;
         }
         
-        if (person.year) {
-          multipleCategories = true;
-          category = type + "::" + person.year;
-        }
-
         if (!categories[category]) {
           categories[category] = [];
           data.Hypsters[category] = {}

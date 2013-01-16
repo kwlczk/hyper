@@ -76,7 +76,7 @@ div.tooltip {
   -moz-box-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
   -o-box-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
   */
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 div.tooltip.show {
@@ -137,7 +137,7 @@ h1 {
 }
 
 #canvas-wrapper {
-	width: 700px;
+	width: 680px;
 	height: 600px;
 	overflow: hidden;
 	background-color: #FFF;
@@ -179,7 +179,7 @@ input#search {
 .list-wrapper {
   position: relative;
   overflow: hidden;
-  width: 300px;
+  width: 320px;
   height: 560px;
 }
 
@@ -237,7 +237,7 @@ ul#selected-Hypsters > li > input {
 }
 
 ul#Hypster-list {
-  font-size: 0.8em;
+  font-size: 0.9em;
   list-style: none;
   padding: 1;
   margin-top: 2px;

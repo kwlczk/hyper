@@ -306,7 +306,7 @@ function createApp() {
   //Create application
   PhiloGL('map-canvas', {
     program: [{
-      //to render cities and routes
+      //to render cities and arcs
       id: 'Hypster_layer',
       from: 'uris',
       path: 'shaders/',
@@ -314,7 +314,7 @@ function createApp() {
       fs: 'hypster_layer.fs.glsl',
       noCache: true
     }, {
-      //to render cities and routes
+      //to render cities and arcs
       id: 'layer',
       from: 'uris',
       path: 'shaders/',

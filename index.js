@@ -110,7 +110,7 @@ function loadData() {
   loadPeople('Hyper Collaborators');
   loadPeople('Hyper Coworkers');
   loadPeople('Hyper Students');
-  loadPeople('Where do Hypers come from');
+  loadPeople('Hyper Nationalities');
 
 
   // Highlight the arcs when you hover on them

@@ -5,7 +5,9 @@ Start a simple server by doing the following from Terminal:
 - Go to http://localhost:8000
 
  cd ~/Downloads/hyper
+ cd ~/Desktop/hyper
+
+test for syncing
 
  Hej på dig test
-
  Trying to regenerate gh-pages

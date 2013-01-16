@@ -110,7 +110,7 @@ function loadData() {
   loadPeople('Hyper Collaborators');
   loadPeople('Hyper Alumni');
   loadPeople('Hyper Coworkers');
-  loadPeople('Hyper Nationalities');
+  loadPeople('Where do Hypers come from');
 
 
 

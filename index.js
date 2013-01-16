@@ -109,8 +109,12 @@ function loadData() {
   loadPeople('Hyper Alumni');
   loadPeople('Hyper Collaborators');
   loadPeople('Hyper Coworkers');
+<<<<<<< HEAD
   loadPeople('Hyper Students');
   loadPeople('Where do Hypers come from');
+=======
+  loadPeople('Hyper Nationalities');
+>>>>>>> parent of 5269ae0... nationalities, title
 
 
   // Highlight the arcs when you hover on them

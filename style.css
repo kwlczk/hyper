@@ -141,6 +141,7 @@ h1 {
 	height: 600px;
 	overflow: hidden;
 	background-color: #FFF;
+	alignment-adjust: central;
 }
 
 #canvas-wrapper > canvas {
@@ -265,6 +266,7 @@ canvas {
 }
 
 .footer {
+	alignment-adjust: central;
 	width: 1000px;
 	height: 100px;
 	padding-left: 50px;

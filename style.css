@@ -223,8 +223,8 @@ ul#Hypster-list > li .square {
   width: 10px;
   height: 10px;
   margin: 1px 4px 0 2px;
-  border: 1px solid #555;
-  border-radius: 1em;
+  border: 0px solid #555;
+  border-radius: 0em;
 }
 
 ul#selected-Hypsters > li label {
